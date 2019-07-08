@@ -33,12 +33,29 @@ def create_csv_from_json(filename):
     with open(filename) as json_contents:
         data = json.loads(json_contents.read())
 
+    # Write day
     day_csv = 'unix_time,unique,page_views,subscriptions\n'
-    for day in data.day:
+    for day in data['day']:
         day_csv += ','.join(map(str, day)) + '\n'
 
     with open(csv_filename, 'w') as csv:
         csv.write(day_csv)
+        csv.close()
+
+    # Write hour
+    hour_csv = 'unix,uniques,pageviews'
+    for hour in data['hour']:
+        hour_csv += ','.join(map(str, hour)) + '\n'
+    with open(csv_filename.replace('.csv', '_hour.csv'), 'w') as csv:
+        csv.write(hour_csv)
+        csv.close()
+
+    # Write month
+    month_csv = 'unix,uniques,pageviews'
+    for month in data['month']:
+        month_csv += ','.join(map(str, month)) + '\n'
+    with open(csv_filename.replace('.csv', '_month.csv'), 'w') as csv:
+        csv.write(month_csv)
         csv.close()
     print(data)
 
