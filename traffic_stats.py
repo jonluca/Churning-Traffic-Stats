@@ -59,6 +59,15 @@ def create_csv_from_json(filename):
         csv.close()
 
 
+def get_change(current, previous):
+    if current == previous:
+        return 100.0
+    try:
+        return round(((current - previous) / previous) * 100.0, 2)
+    except ZeroDivisionError:
+        return 0
+
+
 def create_stats(filename):
     with open(filename) as json_contents:
         data = json.loads(json_contents.read())
@@ -75,10 +84,29 @@ def create_stats(filename):
             most['amount'] = day[3]
             most['day'] = day[0]
 
-
     print(f'{subs_60_days} new subscriptions in last {len(data["day"])} days')
-    print(f'The most subscriptions, {most["amount"]}, were on {datetime.datetime.utcfromtimestamp(most["day"]).strftime("%Y-%m-%d")}')
-    print(f'The least subscriptions, {least["amount"]}, were on {datetime.datetime.utcfromtimestamp(least["day"]).strftime("%Y-%m-%d")}')
+
+    least_day = datetime.datetime.utcfromtimestamp(least["day"]).strftime("%Y-%m-%d")
+    most_day = datetime.datetime.utcfromtimestamp(most["day"]).strftime("%Y-%m-%d")
+
+    print(f'The most subscriptions, {most["amount"]}, were on {most_day}')
+    print(f'The least subscriptions, {least["amount"]}, were on {least_day}')
+
+    last_month = data['month'][1]
+    last_quarter = data['month'][4]
+
+    last_month_date = datetime.datetime.utcfromtimestamp(last_month[0])
+    last_month_date_string = last_month_date.strftime("%B") + ' ' + str(last_month_date.year)
+
+    last_quarter_date = datetime.datetime.utcfromtimestamp(last_quarter[0])
+    last_quarter_date_date_string = last_quarter_date.strftime("%B") + ' ' + str(last_quarter_date.year)
+
+
+
+    print(f'There were {last_month[1]} uniques in {last_month_date_string}, as opposed to {last_quarter[1]} in {last_quarter_date_date_string}.')
+    print(f'This represents a {get_change(last_month[1], last_quarter[1])}% difference.')
+    print(f'There were {last_month[2]} pageviews {last_month_date_string}, as opposed to {last_quarter[2]} in {last_quarter_date_date_string}.')
+    print(f'This represents a {get_change(last_month[2], last_quarter[2])}% difference.')
 
 
 def create_csvs_from_json():
