@@ -117,4 +117,5 @@ def create_csvs_from_json():
 
 
 if __name__ == "__main__":
+    retrieve_traffic_stats()
     create_csvs_from_json()
