@@ -1,0 +1,5971 @@
+{
+  "subscriptionData": [
+    {
+      "startsAt": "2020-11-18T00:00:00.000000",
+      "subscribers": 92,
+      "unsubscribers": 33
+    },
+    {
+      "startsAt": "2020-11-11T00:00:00.000000",
+      "subscribers": 103,
+      "unsubscribers": 28
+    },
+    {
+      "startsAt": "2020-11-15T00:00:00.000000",
+      "subscribers": 81,
+      "unsubscribers": 31
+    },
+    {
+      "startsAt": "2020-10-25T00:00:00.000000",
+      "subscribers": 127,
+      "unsubscribers": 34
+    },
+    {
+      "startsAt": "2020-11-05T00:00:00.000000",
+      "subscribers": 46,
+      "unsubscribers": 28
+    },
+    {
+      "startsAt": "2020-10-23T00:00:00.000000",
+      "subscribers": 94,
+      "unsubscribers": 27
+    },
+    {
+      "startsAt": "2020-11-29T00:00:00.000000",
+      "subscribers": 73,
+      "unsubscribers": 40
+    },
+    {
+      "startsAt": "2020-10-15T00:00:00.000000",
+      "subscribers": 62,
+      "unsubscribers": 27
+    },
+    {
+      "startsAt": "2020-12-07T00:00:00.000000",
+      "subscribers": 90,
+      "unsubscribers": 30
+    },
+    {
+      "startsAt": "2020-10-29T00:00:00.000000",
+      "subscribers": 81,
+      "unsubscribers": 27
+    },
+    {
+      "startsAt": "2020-11-27T00:00:00.000000",
+      "subscribers": 91,
+      "unsubscribers": 20
+    },
+    {
+      "startsAt": "2020-11-06T00:00:00.000000",
+      "subscribers": 47,
+      "unsubscribers": 22
+    },
+    {
+      "startsAt": "2020-12-08T00:00:00.000000",
+      "subscribers": 77,
+      "unsubscribers": 28
+    },
+    {
+      "startsAt": "2020-11-22T00:00:00.000000",
+      "subscribers": 79,
+      "unsubscribers": 26
+    },
+    {
+      "startsAt": "2020-11-17T00:00:00.000000",
+      "subscribers": 82,
+      "unsubscribers": 18
+    },
+    {
+      "startsAt": "2020-10-22T00:00:00.000000",
+      "subscribers": 87,
+      "unsubscribers": 25
+    },
+    {
+      "startsAt": "2020-10-27T00:00:00.000000",
+      "subscribers": 88,
+      "unsubscribers": 34
+    },
+    {
+      "startsAt": "2020-11-07T00:00:00.000000",
+      "subscribers": 55,
+      "unsubscribers": 17
+    },
+    {
+      "startsAt": "2020-10-17T00:00:00.000000",
+      "subscribers": 137,
+      "unsubscribers": 37
+    },
+    {
+      "startsAt": "2020-10-28T00:00:00.000000",
+      "subscribers": 105,
+      "unsubscribers": 40
+    },
+    {
+      "startsAt": "2020-12-01T00:00:00.000000",
+      "subscribers": 64,
+      "unsubscribers": 32
+    },
+    {
+      "startsAt": "2020-12-10T00:00:00.000000",
+      "subscribers": 0,
+      "unsubscribers": 0
+    },
+    {
+      "startsAt": "2020-12-09T00:00:00.000000",
+      "subscribers": 87,
+      "unsubscribers": 39
+    },
+    {
+      "startsAt": "2020-10-31T00:00:00.000000",
+      "subscribers": 49,
+      "unsubscribers": 31
+    },
+    {
+      "startsAt": "2020-11-19T00:00:00.000000",
+      "subscribers": 89,
+      "unsubscribers": 35
+    },
+    {
+      "startsAt": "2020-11-08T00:00:00.000000",
+      "subscribers": 76,
+      "unsubscribers": 26
+    },
+    {
+      "startsAt": "2020-11-30T00:00:00.000000",
+      "subscribers": 81,
+      "unsubscribers": 38
+    },
+    {
+      "startsAt": "2020-11-16T00:00:00.000000",
+      "subscribers": 111,
+      "unsubscribers": 29
+    },
+    {
+      "startsAt": "2020-11-09T00:00:00.000000",
+      "subscribers": 81,
+      "unsubscribers": 25
+    },
+    {
+      "startsAt": "2020-10-16T00:00:00.000000",
+      "subscribers": 69,
+      "unsubscribers": 21
+    },
+    {
+      "startsAt": "2020-12-05T00:00:00.000000",
+      "subscribers": 116,
+      "unsubscribers": 33
+    },
+    {
+      "startsAt": "2020-11-20T00:00:00.000000",
+      "subscribers": 64,
+      "unsubscribers": 22
+    },
+    {
+      "startsAt": "2020-10-30T00:00:00.000000",
+      "subscribers": 74,
+      "unsubscribers": 34
+    },
+    {
+      "startsAt": "2020-11-25T00:00:00.000000",
+      "subscribers": 56,
+      "unsubscribers": 38
+    },
+    {
+      "startsAt": "2020-11-10T00:00:00.000000",
+      "subscribers": 79,
+      "unsubscribers": 34
+    },
+    {
+      "startsAt": "2020-11-21T00:00:00.000000",
+      "subscribers": 71,
+      "unsubscribers": 26
+    },
+    {
+      "startsAt": "2020-12-03T00:00:00.000000",
+      "subscribers": 74,
+      "unsubscribers": 27
+    },
+    {
+      "startsAt": "2020-12-02T00:00:00.000000",
+      "subscribers": 85,
+      "unsubscribers": 37
+    },
+    {
+      "startsAt": "2020-11-02T00:00:00.000000",
+      "subscribers": 96,
+      "unsubscribers": 33
+    },
+    {
+      "startsAt": "2020-10-21T00:00:00.000000",
+      "subscribers": 100,
+      "unsubscribers": 22
+    },
+    {
+      "startsAt": "2020-11-01T00:00:00.000000",
+      "subscribers": 50,
+      "unsubscribers": 28
+    },
+    {
+      "startsAt": "2020-11-26T00:00:00.000000",
+      "subscribers": 65,
+      "unsubscribers": 34
+    },
+    {
+      "startsAt": "2020-10-18T00:00:00.000000",
+      "subscribers": 97,
+      "unsubscribers": 38
+    },
+    {
+      "startsAt": "2020-11-12T00:00:00.000000",
+      "subscribers": 116,
+      "unsubscribers": 34
+    },
+    {
+      "startsAt": "2020-10-26T00:00:00.000000",
+      "subscribers": 85,
+      "unsubscribers": 31
+    },
+    {
+      "startsAt": "2020-11-23T00:00:00.000000",
+      "subscribers": 139,
+      "unsubscribers": 32
+    },
+    {
+      "startsAt": "2020-12-04T00:00:00.000000",
+      "subscribers": 75,
+      "unsubscribers": 29
+    },
+    {
+      "startsAt": "2020-11-13T00:00:00.000000",
+      "subscribers": 102,
+      "unsubscribers": 19
+    },
+    {
+      "startsAt": "2020-10-19T00:00:00.000000",
+      "subscribers": 124,
+      "unsubscribers": 51
+    },
+    {
+      "startsAt": "2020-11-24T00:00:00.000000",
+      "subscribers": 119,
+      "unsubscribers": 30
+    },
+    {
+      "startsAt": "2020-11-04T00:00:00.000000",
+      "subscribers": 66,
+      "unsubscribers": 24
+    },
+    {
+      "startsAt": "2020-11-03T00:00:00.000000",
+      "subscribers": 75,
+      "unsubscribers": 31
+    },
+    {
+      "startsAt": "2020-11-14T00:00:00.000000",
+      "subscribers": 102,
+      "unsubscribers": 27
+    },
+    {
+      "startsAt": "2020-10-24T00:00:00.000000",
+      "subscribers": 65,
+      "unsubscribers": 24
+    },
+    {
+      "startsAt": "2020-11-28T00:00:00.000000",
+      "subscribers": 89,
+      "unsubscribers": 38
+    },
+    {
+      "startsAt": "2020-10-20T00:00:00.000000",
+      "subscribers": 87,
+      "unsubscribers": 22
+    },
+    {
+      "startsAt": "2020-12-06T00:00:00.000000",
+      "subscribers": 96,
+      "unsubscribers": 38
+    }
+  ],
+  "hourStats": [
+    {
+      "startsAt": "2020-12-08T00:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 112,
+      "pageViews": 226
+    },
+    {
+      "startsAt": "2020-12-08T00:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 151,
+      "pageViews": 449
+    },
+    {
+      "startsAt": "2020-12-08T00:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 257,
+      "pageViews": 790
+    },
+    {
+      "startsAt": "2020-12-08T00:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 54,
+      "pageViews": 187
+    },
+    {
+      "startsAt": "2020-12-08T00:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 703,
+      "pageViews": 2218
+    },
+    {
+      "startsAt": "2020-12-08T00:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 129,
+      "pageViews": 566
+    },
+    {
+      "startsAt": "2020-12-08T16:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 118,
+      "pageViews": 278
+    },
+    {
+      "startsAt": "2020-12-08T16:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 209,
+      "pageViews": 764
+    },
+    {
+      "startsAt": "2020-12-08T16:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 277,
+      "pageViews": 769
+    },
+    {
+      "startsAt": "2020-12-08T16:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 65,
+      "pageViews": 217
+    },
+    {
+      "startsAt": "2020-12-08T16:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 824,
+      "pageViews": 2647
+    },
+    {
+      "startsAt": "2020-12-08T16:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 155,
+      "pageViews": 619
+    },
+    {
+      "startsAt": "2020-12-08T19:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 87,
+      "pageViews": 192
+    },
+    {
+      "startsAt": "2020-12-08T19:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 194,
+      "pageViews": 678
+    },
+    {
+      "startsAt": "2020-12-08T19:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 291,
+      "pageViews": 1007
+    },
+    {
+      "startsAt": "2020-12-08T19:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 63,
+      "pageViews": 156
+    },
+    {
+      "startsAt": "2020-12-08T19:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 786,
+      "pageViews": 2572
+    },
+    {
+      "startsAt": "2020-12-08T19:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 151,
+      "pageViews": 539
+    },
+    {
+      "startsAt": "2020-12-10T17:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 0,
+      "pageViews": 0
+    },
+    {
+      "startsAt": "2020-12-08T02:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 138,
+      "pageViews": 289
+    },
+    {
+      "startsAt": "2020-12-08T02:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 135,
+      "pageViews": 392
+    },
+    {
+      "startsAt": "2020-12-08T02:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 202,
+      "pageViews": 798
+    },
+    {
+      "startsAt": "2020-12-08T02:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 69,
+      "pageViews": 195
+    },
+    {
+      "startsAt": "2020-12-08T02:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 710,
+      "pageViews": 2377
+    },
+    {
+      "startsAt": "2020-12-08T02:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 166,
+      "pageViews": 703
+    },
+    {
+      "startsAt": "2020-12-09T03:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 272,
+      "pageViews": 581
+    },
+    {
+      "startsAt": "2020-12-09T03:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 281,
+      "pageViews": 714
+    },
+    {
+      "startsAt": "2020-12-09T03:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 378,
+      "pageViews": 1145
+    },
+    {
+      "startsAt": "2020-12-09T03:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 119,
+      "pageViews": 364
+    },
+    {
+      "startsAt": "2020-12-09T03:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 1348,
+      "pageViews": 4142
+    },
+    {
+      "startsAt": "2020-12-09T03:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 298,
+      "pageViews": 1338
+    },
+    {
+      "startsAt": "2020-12-09T08:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 62,
+      "pageViews": 125
+    },
+    {
+      "startsAt": "2020-12-09T08:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 50,
+      "pageViews": 120
+    },
+    {
+      "startsAt": "2020-12-09T08:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 89,
+      "pageViews": 498
+    },
+    {
+      "startsAt": "2020-12-09T08:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 25,
+      "pageViews": 79
+    },
+    {
+      "startsAt": "2020-12-09T08:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 303,
+      "pageViews": 1188
+    },
+    {
+      "startsAt": "2020-12-09T08:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 77,
+      "pageViews": 366
+    },
+    {
+      "startsAt": "2020-12-08T03:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 165,
+      "pageViews": 447
+    },
+    {
+      "startsAt": "2020-12-08T03:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 129,
+      "pageViews": 424
+    },
+    {
+      "startsAt": "2020-12-08T03:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 242,
+      "pageViews": 849
+    },
+    {
+      "startsAt": "2020-12-08T03:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 76,
+      "pageViews": 297
+    },
+    {
+      "startsAt": "2020-12-08T03:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 782,
+      "pageViews": 2823
+    },
+    {
+      "startsAt": "2020-12-08T03:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 170,
+      "pageViews": 806
+    },
+    {
+      "startsAt": "2020-12-10T16:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 199,
+      "pageViews": 345
+    },
+    {
+      "startsAt": "2020-12-10T16:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 271,
+      "pageViews": 827
+    },
+    {
+      "startsAt": "2020-12-10T16:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 340,
+      "pageViews": 1051
+    },
+    {
+      "startsAt": "2020-12-10T16:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 119,
+      "pageViews": 317
+    },
+    {
+      "startsAt": "2020-12-10T16:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 1393,
+      "pageViews": 3981
+    },
+    {
+      "startsAt": "2020-12-10T16:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 464,
+      "pageViews": 1441
+    },
+    {
+      "startsAt": "2020-12-06T23:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 0,
+      "pageViews": 0
+    },
+    {
+      "startsAt": "2020-12-09T21:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 224,
+      "pageViews": 353
+    },
+    {
+      "startsAt": "2020-12-09T21:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 225,
+      "pageViews": 735
+    },
+    {
+      "startsAt": "2020-12-09T21:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 311,
+      "pageViews": 1032
+    },
+    {
+      "startsAt": "2020-12-09T21:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 102,
+      "pageViews": 308
+    },
+    {
+      "startsAt": "2020-12-09T21:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 1038,
+      "pageViews": 3140
+    },
+    {
+      "startsAt": "2020-12-09T21:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 176,
+      "pageViews": 712
+    },
+    {
+      "startsAt": "2020-12-09T12:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 89,
+      "pageViews": 182
+    },
+    {
+      "startsAt": "2020-12-09T12:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 60,
+      "pageViews": 161
+    },
+    {
+      "startsAt": "2020-12-09T12:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 75,
+      "pageViews": 453
+    },
+    {
+      "startsAt": "2020-12-09T12:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 45,
+      "pageViews": 146
+    },
+    {
+      "startsAt": "2020-12-09T12:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 377,
+      "pageViews": 1371
+    },
+    {
+      "startsAt": "2020-12-09T12:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 108,
+      "pageViews": 429
+    },
+    {
+      "startsAt": "2020-12-06T22:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 123,
+      "pageViews": 286
+    },
+    {
+      "startsAt": "2020-12-06T22:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 113,
+      "pageViews": 338
+    },
+    {
+      "startsAt": "2020-12-06T22:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 165,
+      "pageViews": 665
+    },
+    {
+      "startsAt": "2020-12-06T22:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 58,
+      "pageViews": 193
+    },
+    {
+      "startsAt": "2020-12-06T22:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 584,
+      "pageViews": 2003
+    },
+    {
+      "startsAt": "2020-12-06T22:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 125,
+      "pageViews": 521
+    },
+    {
+      "startsAt": "2020-12-09T02:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 168,
+      "pageViews": 400
+    },
+    {
+      "startsAt": "2020-12-09T02:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 182,
+      "pageViews": 596
+    },
+    {
+      "startsAt": "2020-12-09T02:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 243,
+      "pageViews": 725
+    },
+    {
+      "startsAt": "2020-12-09T02:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 96,
+      "pageViews": 334
+    },
+    {
+      "startsAt": "2020-12-09T02:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 938,
+      "pageViews": 3329
+    },
+    {
+      "startsAt": "2020-12-09T02:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 249,
+      "pageViews": 1274
+    },
+    {
+      "startsAt": "2020-12-06T21:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 114,
+      "pageViews": 244
+    },
+    {
+      "startsAt": "2020-12-06T21:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 129,
+      "pageViews": 329
+    },
+    {
+      "startsAt": "2020-12-06T21:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 194,
+      "pageViews": 675
+    },
+    {
+      "startsAt": "2020-12-06T21:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 73,
+      "pageViews": 254
+    },
+    {
+      "startsAt": "2020-12-06T21:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 640,
+      "pageViews": 2001
+    },
+    {
+      "startsAt": "2020-12-06T21:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 130,
+      "pageViews": 499
+    },
+    {
+      "startsAt": "2020-12-10T10:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 88,
+      "pageViews": 157
+    },
+    {
+      "startsAt": "2020-12-10T10:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 31,
+      "pageViews": 49
+    },
+    {
+      "startsAt": "2020-12-10T10:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 105,
+      "pageViews": 314
+    },
+    {
+      "startsAt": "2020-12-10T10:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 22,
+      "pageViews": 65
+    },
+    {
+      "startsAt": "2020-12-10T10:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 288,
+      "pageViews": 699
+    },
+    {
+      "startsAt": "2020-12-10T10:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 42,
+      "pageViews": 114
+    },
+    {
+      "startsAt": "2020-12-09T15:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 118,
+      "pageViews": 268
+    },
+    {
+      "startsAt": "2020-12-09T15:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 184,
+      "pageViews": 644
+    },
+    {
+      "startsAt": "2020-12-09T15:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 264,
+      "pageViews": 938
+    },
+    {
+      "startsAt": "2020-12-09T15:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 78,
+      "pageViews": 338
+    },
+    {
+      "startsAt": "2020-12-09T15:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 831,
+      "pageViews": 2929
+    },
+    {
+      "startsAt": "2020-12-09T15:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 187,
+      "pageViews": 741
+    },
+    {
+      "startsAt": "2020-12-09T14:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 122,
+      "pageViews": 282
+    },
+    {
+      "startsAt": "2020-12-09T14:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 170,
+      "pageViews": 588
+    },
+    {
+      "startsAt": "2020-12-09T14:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 246,
+      "pageViews": 837
+    },
+    {
+      "startsAt": "2020-12-09T14:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 67,
+      "pageViews": 216
+    },
+    {
+      "startsAt": "2020-12-09T14:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 771,
+      "pageViews": 2598
+    },
+    {
+      "startsAt": "2020-12-09T14:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 166,
+      "pageViews": 675
+    },
+    {
+      "startsAt": "2020-12-08T17:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 122,
+      "pageViews": 293
+    },
+    {
+      "startsAt": "2020-12-08T17:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 221,
+      "pageViews": 748
+    },
+    {
+      "startsAt": "2020-12-08T17:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 276,
+      "pageViews": 877
+    },
+    {
+      "startsAt": "2020-12-08T17:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 65,
+      "pageViews": 222
+    },
+    {
+      "startsAt": "2020-12-08T17:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 846,
+      "pageViews": 2778
+    },
+    {
+      "startsAt": "2020-12-08T17:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 162,
+      "pageViews": 638
+    },
+    {
+      "startsAt": "2020-12-08T01:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 119,
+      "pageViews": 268
+    },
+    {
+      "startsAt": "2020-12-08T01:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 126,
+      "pageViews": 379
+    },
+    {
+      "startsAt": "2020-12-08T01:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 180,
+      "pageViews": 629
+    },
+    {
+      "startsAt": "2020-12-08T01:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 59,
+      "pageViews": 196
+    },
+    {
+      "startsAt": "2020-12-08T01:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 645,
+      "pageViews": 2215
+    },
+    {
+      "startsAt": "2020-12-08T01:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 161,
+      "pageViews": 743
+    },
+    {
+      "startsAt": "2020-12-08T07:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 69,
+      "pageViews": 148
+    },
+    {
+      "startsAt": "2020-12-08T07:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 47,
+      "pageViews": 112
+    },
+    {
+      "startsAt": "2020-12-08T07:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 103,
+      "pageViews": 371
+    },
+    {
+      "startsAt": "2020-12-08T07:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 24,
+      "pageViews": 114
+    },
+    {
+      "startsAt": "2020-12-08T07:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 306,
+      "pageViews": 987
+    },
+    {
+      "startsAt": "2020-12-08T07:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 63,
+      "pageViews": 242
+    },
+    {
+      "startsAt": "2020-12-09T09:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 41,
+      "pageViews": 61
+    },
+    {
+      "startsAt": "2020-12-09T09:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 30,
+      "pageViews": 74
+    },
+    {
+      "startsAt": "2020-12-09T09:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 46,
+      "pageViews": 266
+    },
+    {
+      "startsAt": "2020-12-09T09:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 21,
+      "pageViews": 60
+    },
+    {
+      "startsAt": "2020-12-09T09:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 183,
+      "pageViews": 596
+    },
+    {
+      "startsAt": "2020-12-09T09:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 45,
+      "pageViews": 135
+    },
+    {
+      "startsAt": "2020-12-08T14:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 79,
+      "pageViews": 209
+    },
+    {
+      "startsAt": "2020-12-08T14:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 123,
+      "pageViews": 431
+    },
+    {
+      "startsAt": "2020-12-08T14:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 159,
+      "pageViews": 633
+    },
+    {
+      "startsAt": "2020-12-08T14:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 44,
+      "pageViews": 153
+    },
+    {
+      "startsAt": "2020-12-08T14:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 508,
+      "pageViews": 1811
+    },
+    {
+      "startsAt": "2020-12-08T14:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 103,
+      "pageViews": 385
+    },
+    {
+      "startsAt": "2020-12-07T00:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 154,
+      "pageViews": 321
+    },
+    {
+      "startsAt": "2020-12-07T00:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 141,
+      "pageViews": 370
+    },
+    {
+      "startsAt": "2020-12-07T00:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 159,
+      "pageViews": 568
+    },
+    {
+      "startsAt": "2020-12-07T00:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 65,
+      "pageViews": 213
+    },
+    {
+      "startsAt": "2020-12-07T00:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 673,
+      "pageViews": 2091
+    },
+    {
+      "startsAt": "2020-12-07T00:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 154,
+      "pageViews": 619
+    },
+    {
+      "startsAt": "2020-12-09T20:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 230,
+      "pageViews": 391
+    },
+    {
+      "startsAt": "2020-12-09T20:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 238,
+      "pageViews": 816
+    },
+    {
+      "startsAt": "2020-12-09T20:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 329,
+      "pageViews": 1116
+    },
+    {
+      "startsAt": "2020-12-09T20:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 116,
+      "pageViews": 299
+    },
+    {
+      "startsAt": "2020-12-09T20:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 1101,
+      "pageViews": 3308
+    },
+    {
+      "startsAt": "2020-12-09T20:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 188,
+      "pageViews": 686
+    },
+    {
+      "startsAt": "2020-12-07T01:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 125,
+      "pageViews": 256
+    },
+    {
+      "startsAt": "2020-12-07T01:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 151,
+      "pageViews": 426
+    },
+    {
+      "startsAt": "2020-12-07T01:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 191,
+      "pageViews": 791
+    },
+    {
+      "startsAt": "2020-12-07T01:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 76,
+      "pageViews": 298
+    },
+    {
+      "startsAt": "2020-12-07T01:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 698,
+      "pageViews": 2334
+    },
+    {
+      "startsAt": "2020-12-07T01:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 155,
+      "pageViews": 563
+    },
+    {
+      "startsAt": "2020-12-10T04:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 237,
+      "pageViews": 459
+    },
+    {
+      "startsAt": "2020-12-10T04:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 126,
+      "pageViews": 322
+    },
+    {
+      "startsAt": "2020-12-10T04:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 207,
+      "pageViews": 629
+    },
+    {
+      "startsAt": "2020-12-10T04:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 101,
+      "pageViews": 235
+    },
+    {
+      "startsAt": "2020-12-10T04:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 907,
+      "pageViews": 2693
+    },
+    {
+      "startsAt": "2020-12-10T04:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 236,
+      "pageViews": 1048
+    },
+    {
+      "startsAt": "2020-12-08T10:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 23,
+      "pageViews": 66
+    },
+    {
+      "startsAt": "2020-12-08T10:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 18,
+      "pageViews": 44
+    },
+    {
+      "startsAt": "2020-12-08T10:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 39,
+      "pageViews": 243
+    },
+    {
+      "startsAt": "2020-12-08T10:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 19,
+      "pageViews": 48
+    },
+    {
+      "startsAt": "2020-12-08T10:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 123,
+      "pageViews": 483
+    },
+    {
+      "startsAt": "2020-12-08T10:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 24,
+      "pageViews": 82
+    },
+    {
+      "startsAt": "2020-12-07T15:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 97,
+      "pageViews": 247
+    },
+    {
+      "startsAt": "2020-12-07T15:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 130,
+      "pageViews": 539
+    },
+    {
+      "startsAt": "2020-12-07T15:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 193,
+      "pageViews": 790
+    },
+    {
+      "startsAt": "2020-12-07T15:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 56,
+      "pageViews": 224
+    },
+    {
+      "startsAt": "2020-12-07T15:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 610,
+      "pageViews": 2354
+    },
+    {
+      "startsAt": "2020-12-07T15:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 134,
+      "pageViews": 554
+    },
+    {
+      "startsAt": "2020-12-10T11:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 76,
+      "pageViews": 112
+    },
+    {
+      "startsAt": "2020-12-10T11:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 20,
+      "pageViews": 53
+    },
+    {
+      "startsAt": "2020-12-10T11:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 45,
+      "pageViews": 225
+    },
+    {
+      "startsAt": "2020-12-10T11:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 32,
+      "pageViews": 71
+    },
+    {
+      "startsAt": "2020-12-10T11:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 230,
+      "pageViews": 671
+    },
+    {
+      "startsAt": "2020-12-10T11:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 57,
+      "pageViews": 210
+    },
+    {
+      "startsAt": "2020-12-07T13:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 73,
+      "pageViews": 195
+    },
+    {
+      "startsAt": "2020-12-07T13:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 91,
+      "pageViews": 345
+    },
+    {
+      "startsAt": "2020-12-07T13:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 97,
+      "pageViews": 507
+    },
+    {
+      "startsAt": "2020-12-07T13:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 41,
+      "pageViews": 181
+    },
+    {
+      "startsAt": "2020-12-07T13:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 409,
+      "pageViews": 1713
+    },
+    {
+      "startsAt": "2020-12-07T13:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 107,
+      "pageViews": 485
+    },
+    {
+      "startsAt": "2020-12-09T19:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 246,
+      "pageViews": 468
+    },
+    {
+      "startsAt": "2020-12-09T19:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 237,
+      "pageViews": 818
+    },
+    {
+      "startsAt": "2020-12-09T19:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 480,
+      "pageViews": 1391
+    },
+    {
+      "startsAt": "2020-12-09T19:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 117,
+      "pageViews": 303
+    },
+    {
+      "startsAt": "2020-12-09T19:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 1298,
+      "pageViews": 3884
+    },
+    {
+      "startsAt": "2020-12-09T19:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 218,
+      "pageViews": 904
+    },
+    {
+      "startsAt": "2020-12-08T12:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 58,
+      "pageViews": 115
+    },
+    {
+      "startsAt": "2020-12-08T12:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 35,
+      "pageViews": 90
+    },
+    {
+      "startsAt": "2020-12-08T12:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 52,
+      "pageViews": 222
+    },
+    {
+      "startsAt": "2020-12-08T12:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 25,
+      "pageViews": 93
+    },
+    {
+      "startsAt": "2020-12-08T12:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 228,
+      "pageViews": 722
+    },
+    {
+      "startsAt": "2020-12-08T12:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 58,
+      "pageViews": 202
+    },
+    {
+      "startsAt": "2020-12-08T18:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 127,
+      "pageViews": 227
+    },
+    {
+      "startsAt": "2020-12-08T18:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 205,
+      "pageViews": 602
+    },
+    {
+      "startsAt": "2020-12-08T18:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 251,
+      "pageViews": 884
+    },
+    {
+      "startsAt": "2020-12-08T18:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 63,
+      "pageViews": 240
+    },
+    {
+      "startsAt": "2020-12-08T18:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 816,
+      "pageViews": 2547
+    },
+    {
+      "startsAt": "2020-12-08T18:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 170,
+      "pageViews": 594
+    },
+    {
+      "startsAt": "2020-12-09T10:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 29,
+      "pageViews": 43
+    },
+    {
+      "startsAt": "2020-12-09T10:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 31,
+      "pageViews": 69
+    },
+    {
+      "startsAt": "2020-12-09T10:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 97,
+      "pageViews": 433
+    },
+    {
+      "startsAt": "2020-12-09T10:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 20,
+      "pageViews": 71
+    },
+    {
+      "startsAt": "2020-12-09T10:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 220,
+      "pageViews": 767
+    },
+    {
+      "startsAt": "2020-12-09T10:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 43,
+      "pageViews": 151
+    },
+    {
+      "startsAt": "2020-12-07T05:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 114,
+      "pageViews": 238
+    },
+    {
+      "startsAt": "2020-12-07T05:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 106,
+      "pageViews": 325
+    },
+    {
+      "startsAt": "2020-12-07T05:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 154,
+      "pageViews": 560
+    },
+    {
+      "startsAt": "2020-12-07T05:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 50,
+      "pageViews": 165
+    },
+    {
+      "startsAt": "2020-12-07T05:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 547,
+      "pageViews": 1743
+    },
+    {
+      "startsAt": "2020-12-07T05:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 123,
+      "pageViews": 455
+    },
+    {
+      "startsAt": "2020-12-10T18:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 0,
+      "pageViews": 0
+    },
+    {
+      "startsAt": "2020-12-09T23:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 0,
+      "pageViews": 0
+    },
+    {
+      "startsAt": "2020-12-09T22:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 248,
+      "pageViews": 416
+    },
+    {
+      "startsAt": "2020-12-09T22:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 189,
+      "pageViews": 567
+    },
+    {
+      "startsAt": "2020-12-09T22:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 282,
+      "pageViews": 898
+    },
+    {
+      "startsAt": "2020-12-09T22:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 113,
+      "pageViews": 354
+    },
+    {
+      "startsAt": "2020-12-09T22:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 1012,
+      "pageViews": 2886
+    },
+    {
+      "startsAt": "2020-12-09T22:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 180,
+      "pageViews": 651
+    },
+    {
+      "startsAt": "2020-12-08T13:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 71,
+      "pageViews": 174
+    },
+    {
+      "startsAt": "2020-12-08T13:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 77,
+      "pageViews": 296
+    },
+    {
+      "startsAt": "2020-12-08T13:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 128,
+      "pageViews": 439
+    },
+    {
+      "startsAt": "2020-12-08T13:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 34,
+      "pageViews": 130
+    },
+    {
+      "startsAt": "2020-12-08T13:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 403,
+      "pageViews": 1437
+    },
+    {
+      "startsAt": "2020-12-08T13:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 93,
+      "pageViews": 398
+    },
+    {
+      "startsAt": "2020-12-09T04:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 258,
+      "pageViews": 559
+    },
+    {
+      "startsAt": "2020-12-09T04:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 247,
+      "pageViews": 641
+    },
+    {
+      "startsAt": "2020-12-09T04:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 386,
+      "pageViews": 1179
+    },
+    {
+      "startsAt": "2020-12-09T04:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 111,
+      "pageViews": 348
+    },
+    {
+      "startsAt": "2020-12-09T04:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 1280,
+      "pageViews": 4022
+    },
+    {
+      "startsAt": "2020-12-09T04:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 278,
+      "pageViews": 1295
+    },
+    {
+      "startsAt": "2020-12-08T09:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 43,
+      "pageViews": 70
+    },
+    {
+      "startsAt": "2020-12-08T09:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 21,
+      "pageViews": 38
+    },
+    {
+      "startsAt": "2020-12-08T09:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 84,
+      "pageViews": 349
+    },
+    {
+      "startsAt": "2020-12-08T09:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 10,
+      "pageViews": 40
+    },
+    {
+      "startsAt": "2020-12-08T09:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 185,
+      "pageViews": 596
+    },
+    {
+      "startsAt": "2020-12-08T09:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 27,
+      "pageViews": 99
+    },
+    {
+      "startsAt": "2020-12-07T07:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 67,
+      "pageViews": 128
+    },
+    {
+      "startsAt": "2020-12-07T07:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 42,
+      "pageViews": 164
+    },
+    {
+      "startsAt": "2020-12-07T07:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 79,
+      "pageViews": 375
+    },
+    {
+      "startsAt": "2020-12-07T07:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 36,
+      "pageViews": 97
+    },
+    {
+      "startsAt": "2020-12-07T07:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 294,
+      "pageViews": 1052
+    },
+    {
+      "startsAt": "2020-12-07T07:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 70,
+      "pageViews": 288
+    },
+    {
+      "startsAt": "2020-12-07T14:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 81,
+      "pageViews": 192
+    },
+    {
+      "startsAt": "2020-12-07T14:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 127,
+      "pageViews": 508
+    },
+    {
+      "startsAt": "2020-12-07T14:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 156,
+      "pageViews": 670
+    },
+    {
+      "startsAt": "2020-12-07T14:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 53,
+      "pageViews": 250
+    },
+    {
+      "startsAt": "2020-12-07T14:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 536,
+      "pageViews": 2139
+    },
+    {
+      "startsAt": "2020-12-07T14:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 119,
+      "pageViews": 519
+    },
+    {
+      "startsAt": "2020-12-10T12:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 149,
+      "pageViews": 274
+    },
+    {
+      "startsAt": "2020-12-10T12:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 39,
+      "pageViews": 126
+    },
+    {
+      "startsAt": "2020-12-10T12:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 86,
+      "pageViews": 270
+    },
+    {
+      "startsAt": "2020-12-10T12:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 48,
+      "pageViews": 147
+    },
+    {
+      "startsAt": "2020-12-10T12:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 416,
+      "pageViews": 1212
+    },
+    {
+      "startsAt": "2020-12-10T12:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 94,
+      "pageViews": 395
+    },
+    {
+      "startsAt": "2020-12-09T17:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 141,
+      "pageViews": 335
+    },
+    {
+      "startsAt": "2020-12-09T17:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 241,
+      "pageViews": 868
+    },
+    {
+      "startsAt": "2020-12-09T17:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 369,
+      "pageViews": 1207
+    },
+    {
+      "startsAt": "2020-12-09T17:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 79,
+      "pageViews": 276
+    },
+    {
+      "startsAt": "2020-12-09T17:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 1047,
+      "pageViews": 3533
+    },
+    {
+      "startsAt": "2020-12-09T17:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 217,
+      "pageViews": 847
+    },
+    {
+      "startsAt": "2020-12-07T08:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 45,
+      "pageViews": 79
+    },
+    {
+      "startsAt": "2020-12-07T08:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 32,
+      "pageViews": 74
+    },
+    {
+      "startsAt": "2020-12-07T08:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 63,
+      "pageViews": 459
+    },
+    {
+      "startsAt": "2020-12-07T08:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 17,
+      "pageViews": 65
+    },
+    {
+      "startsAt": "2020-12-07T08:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 214,
+      "pageViews": 857
+    },
+    {
+      "startsAt": "2020-12-07T08:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 57,
+      "pageViews": 180
+    },
+    {
+      "startsAt": "2020-12-08T08:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 56,
+      "pageViews": 145
+    },
+    {
+      "startsAt": "2020-12-08T08:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 34,
+      "pageViews": 65
+    },
+    {
+      "startsAt": "2020-12-08T08:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 66,
+      "pageViews": 340
+    },
+    {
+      "startsAt": "2020-12-08T08:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 19,
+      "pageViews": 53
+    },
+    {
+      "startsAt": "2020-12-08T08:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 218,
+      "pageViews": 724
+    },
+    {
+      "startsAt": "2020-12-08T08:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 43,
+      "pageViews": 121
+    },
+    {
+      "startsAt": "2020-12-07T09:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 29,
+      "pageViews": 48
+    },
+    {
+      "startsAt": "2020-12-07T09:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 18,
+      "pageViews": 42
+    },
+    {
+      "startsAt": "2020-12-07T09:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 70,
+      "pageViews": 397
+    },
+    {
+      "startsAt": "2020-12-07T09:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 12,
+      "pageViews": 56
+    },
+    {
+      "startsAt": "2020-12-07T09:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 168,
+      "pageViews": 658
+    },
+    {
+      "startsAt": "2020-12-07T09:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 39,
+      "pageViews": 115
+    },
+    {
+      "startsAt": "2020-12-10T06:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 181,
+      "pageViews": 320
+    },
+    {
+      "startsAt": "2020-12-10T06:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 75,
+      "pageViews": 210
+    },
+    {
+      "startsAt": "2020-12-10T06:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 134,
+      "pageViews": 528
+    },
+    {
+      "startsAt": "2020-12-10T06:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 61,
+      "pageViews": 193
+    },
+    {
+      "startsAt": "2020-12-10T06:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 584,
+      "pageViews": 1679
+    },
+    {
+      "startsAt": "2020-12-10T06:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 133,
+      "pageViews": 428
+    },
+    {
+      "startsAt": "2020-12-07T10:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 46,
+      "pageViews": 70
+    },
+    {
+      "startsAt": "2020-12-07T10:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 18,
+      "pageViews": 60
+    },
+    {
+      "startsAt": "2020-12-07T10:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 40,
+      "pageViews": 380
+    },
+    {
+      "startsAt": "2020-12-07T10:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 13,
+      "pageViews": 56
+    },
+    {
+      "startsAt": "2020-12-07T10:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 150,
+      "pageViews": 691
+    },
+    {
+      "startsAt": "2020-12-07T10:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 33,
+      "pageViews": 125
+    },
+    {
+      "startsAt": "2020-12-09T11:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 57,
+      "pageViews": 110
+    },
+    {
+      "startsAt": "2020-12-09T11:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 33,
+      "pageViews": 73
+    },
+    {
+      "startsAt": "2020-12-09T11:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 63,
+      "pageViews": 313
+    },
+    {
+      "startsAt": "2020-12-09T11:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 23,
+      "pageViews": 113
+    },
+    {
+      "startsAt": "2020-12-09T11:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 253,
+      "pageViews": 909
+    },
+    {
+      "startsAt": "2020-12-09T11:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 77,
+      "pageViews": 300
+    },
+    {
+      "startsAt": "2020-12-10T19:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 0,
+      "pageViews": 0
+    },
+    {
+      "startsAt": "2020-12-10T00:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 258,
+      "pageViews": 467
+    },
+    {
+      "startsAt": "2020-12-10T00:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 162,
+      "pageViews": 410
+    },
+    {
+      "startsAt": "2020-12-10T00:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 211,
+      "pageViews": 729
+    },
+    {
+      "startsAt": "2020-12-10T00:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 116,
+      "pageViews": 388
+    },
+    {
+      "startsAt": "2020-12-10T00:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 952,
+      "pageViews": 2781
+    },
+    {
+      "startsAt": "2020-12-10T00:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 205,
+      "pageViews": 787
+    },
+    {
+      "startsAt": "2020-12-10T03:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 275,
+      "pageViews": 540
+    },
+    {
+      "startsAt": "2020-12-10T03:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 153,
+      "pageViews": 377
+    },
+    {
+      "startsAt": "2020-12-10T03:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 232,
+      "pageViews": 636
+    },
+    {
+      "startsAt": "2020-12-10T03:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 116,
+      "pageViews": 320
+    },
+    {
+      "startsAt": "2020-12-10T03:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 1001,
+      "pageViews": 2770
+    },
+    {
+      "startsAt": "2020-12-10T03:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 225,
+      "pageViews": 897
+    },
+    {
+      "startsAt": "2020-12-09T05:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 210,
+      "pageViews": 441
+    },
+    {
+      "startsAt": "2020-12-09T05:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 160,
+      "pageViews": 386
+    },
+    {
+      "startsAt": "2020-12-09T05:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 281,
+      "pageViews": 842
+    },
+    {
+      "startsAt": "2020-12-09T05:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 83,
+      "pageViews": 269
+    },
+    {
+      "startsAt": "2020-12-09T05:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 928,
+      "pageViews": 2788
+    },
+    {
+      "startsAt": "2020-12-09T05:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 194,
+      "pageViews": 850
+    },
+    {
+      "startsAt": "2020-12-07T12:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 61,
+      "pageViews": 113
+    },
+    {
+      "startsAt": "2020-12-07T12:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 40,
+      "pageViews": 128
+    },
+    {
+      "startsAt": "2020-12-07T12:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 84,
+      "pageViews": 415
+    },
+    {
+      "startsAt": "2020-12-07T12:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 31,
+      "pageViews": 128
+    },
+    {
+      "startsAt": "2020-12-07T12:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 291,
+      "pageViews": 1045
+    },
+    {
+      "startsAt": "2020-12-07T12:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 75,
+      "pageViews": 261
+    },
+    {
+      "startsAt": "2020-12-07T06:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 75,
+      "pageViews": 176
+    },
+    {
+      "startsAt": "2020-12-07T06:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 63,
+      "pageViews": 144
+    },
+    {
+      "startsAt": "2020-12-07T06:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 108,
+      "pageViews": 616
+    },
+    {
+      "startsAt": "2020-12-07T06:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 29,
+      "pageViews": 92
+    },
+    {
+      "startsAt": "2020-12-07T06:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 364,
+      "pageViews": 1534
+    },
+    {
+      "startsAt": "2020-12-07T06:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 89,
+      "pageViews": 506
+    },
+    {
+      "startsAt": "2020-12-10T13:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 134,
+      "pageViews": 299
+    },
+    {
+      "startsAt": "2020-12-10T13:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 87,
+      "pageViews": 330
+    },
+    {
+      "startsAt": "2020-12-10T13:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 98,
+      "pageViews": 376
+    },
+    {
+      "startsAt": "2020-12-10T13:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 58,
+      "pageViews": 216
+    },
+    {
+      "startsAt": "2020-12-10T13:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 495,
+      "pageViews": 1621
+    },
+    {
+      "startsAt": "2020-12-10T13:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 118,
+      "pageViews": 400
+    },
+    {
+      "startsAt": "2020-12-09T18:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 166,
+      "pageViews": 319
+    },
+    {
+      "startsAt": "2020-12-09T18:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 245,
+      "pageViews": 849
+    },
+    {
+      "startsAt": "2020-12-09T18:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 347,
+      "pageViews": 1228
+    },
+    {
+      "startsAt": "2020-12-09T18:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 94,
+      "pageViews": 253
+    },
+    {
+      "startsAt": "2020-12-09T18:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 1075,
+      "pageViews": 3502
+    },
+    {
+      "startsAt": "2020-12-09T18:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 223,
+      "pageViews": 853
+    },
+    {
+      "startsAt": "2020-12-10T05:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 194,
+      "pageViews": 374
+    },
+    {
+      "startsAt": "2020-12-10T05:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 119,
+      "pageViews": 311
+    },
+    {
+      "startsAt": "2020-12-10T05:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 165,
+      "pageViews": 560
+    },
+    {
+      "startsAt": "2020-12-10T05:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 74,
+      "pageViews": 184
+    },
+    {
+      "startsAt": "2020-12-10T05:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 766,
+      "pageViews": 2253
+    },
+    {
+      "startsAt": "2020-12-10T05:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 214,
+      "pageViews": 824
+    },
+    {
+      "startsAt": "2020-12-10T07:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 123,
+      "pageViews": 227
+    },
+    {
+      "startsAt": "2020-12-10T07:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 41,
+      "pageViews": 105
+    },
+    {
+      "startsAt": "2020-12-10T07:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 98,
+      "pageViews": 432
+    },
+    {
+      "startsAt": "2020-12-10T07:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 43,
+      "pageViews": 132
+    },
+    {
+      "startsAt": "2020-12-10T07:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 395,
+      "pageViews": 1197
+    },
+    {
+      "startsAt": "2020-12-10T07:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 90,
+      "pageViews": 301
+    },
+    {
+      "startsAt": "2020-12-08T04:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 105,
+      "pageViews": 308
+    },
+    {
+      "startsAt": "2020-12-08T04:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 127,
+      "pageViews": 276
+    },
+    {
+      "startsAt": "2020-12-08T04:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 169,
+      "pageViews": 713
+    },
+    {
+      "startsAt": "2020-12-08T04:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 75,
+      "pageViews": 216
+    },
+    {
+      "startsAt": "2020-12-08T04:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 642,
+      "pageViews": 2207
+    },
+    {
+      "startsAt": "2020-12-08T04:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 166,
+      "pageViews": 694
+    },
+    {
+      "startsAt": "2020-12-08T22:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 110,
+      "pageViews": 256
+    },
+    {
+      "startsAt": "2020-12-08T22:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 147,
+      "pageViews": 404
+    },
+    {
+      "startsAt": "2020-12-08T22:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 362,
+      "pageViews": 843
+    },
+    {
+      "startsAt": "2020-12-08T22:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 61,
+      "pageViews": 170
+    },
+    {
+      "startsAt": "2020-12-08T22:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 824,
+      "pageViews": 2209
+    },
+    {
+      "startsAt": "2020-12-08T22:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 144,
+      "pageViews": 536
+    },
+    {
+      "startsAt": "2020-12-10T09:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 83,
+      "pageViews": 134
+    },
+    {
+      "startsAt": "2020-12-10T09:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 25,
+      "pageViews": 48
+    },
+    {
+      "startsAt": "2020-12-10T09:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 39,
+      "pageViews": 247
+    },
+    {
+      "startsAt": "2020-12-10T09:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 19,
+      "pageViews": 56
+    },
+    {
+      "startsAt": "2020-12-10T09:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 207,
+      "pageViews": 693
+    },
+    {
+      "startsAt": "2020-12-10T09:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 41,
+      "pageViews": 208
+    },
+    {
+      "startsAt": "2020-12-08T21:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 86,
+      "pageViews": 210
+    },
+    {
+      "startsAt": "2020-12-08T21:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 218,
+      "pageViews": 618
+    },
+    {
+      "startsAt": "2020-12-08T21:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 265,
+      "pageViews": 927
+    },
+    {
+      "startsAt": "2020-12-08T21:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 58,
+      "pageViews": 196
+    },
+    {
+      "startsAt": "2020-12-08T21:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 765,
+      "pageViews": 2526
+    },
+    {
+      "startsAt": "2020-12-08T21:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 138,
+      "pageViews": 575
+    },
+    {
+      "startsAt": "2020-12-08T23:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 0,
+      "pageViews": 0
+    },
+    {
+      "startsAt": "2020-12-09T16:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 147,
+      "pageViews": 335
+    },
+    {
+      "startsAt": "2020-12-09T16:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 222,
+      "pageViews": 775
+    },
+    {
+      "startsAt": "2020-12-09T16:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 275,
+      "pageViews": 914
+    },
+    {
+      "startsAt": "2020-12-09T16:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 59,
+      "pageViews": 236
+    },
+    {
+      "startsAt": "2020-12-09T16:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 908,
+      "pageViews": 3107
+    },
+    {
+      "startsAt": "2020-12-09T16:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 205,
+      "pageViews": 847
+    },
+    {
+      "startsAt": "2020-12-07T22:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 97,
+      "pageViews": 172
+    },
+    {
+      "startsAt": "2020-12-07T22:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 145,
+      "pageViews": 408
+    },
+    {
+      "startsAt": "2020-12-07T22:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 262,
+      "pageViews": 801
+    },
+    {
+      "startsAt": "2020-12-07T22:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 48,
+      "pageViews": 198
+    },
+    {
+      "startsAt": "2020-12-07T22:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 687,
+      "pageViews": 2232
+    },
+    {
+      "startsAt": "2020-12-07T22:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 135,
+      "pageViews": 653
+    },
+    {
+      "startsAt": "2020-12-10T20:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 0,
+      "pageViews": 0
+    },
+    {
+      "startsAt": "2020-12-07T03:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 134,
+      "pageViews": 326
+    },
+    {
+      "startsAt": "2020-12-07T03:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 120,
+      "pageViews": 312
+    },
+    {
+      "startsAt": "2020-12-07T03:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 196,
+      "pageViews": 667
+    },
+    {
+      "startsAt": "2020-12-07T03:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 71,
+      "pageViews": 237
+    },
+    {
+      "startsAt": "2020-12-07T03:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 681,
+      "pageViews": 2206
+    },
+    {
+      "startsAt": "2020-12-07T03:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 160,
+      "pageViews": 664
+    },
+    {
+      "startsAt": "2020-12-10T01:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 290,
+      "pageViews": 510
+    },
+    {
+      "startsAt": "2020-12-10T01:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 133,
+      "pageViews": 366
+    },
+    {
+      "startsAt": "2020-12-10T01:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 249,
+      "pageViews": 754
+    },
+    {
+      "startsAt": "2020-12-10T01:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 113,
+      "pageViews": 358
+    },
+    {
+      "startsAt": "2020-12-10T01:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 995,
+      "pageViews": 2739
+    },
+    {
+      "startsAt": "2020-12-10T01:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 210,
+      "pageViews": 751
+    },
+    {
+      "startsAt": "2020-12-09T00:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 135,
+      "pageViews": 247
+    },
+    {
+      "startsAt": "2020-12-09T00:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 136,
+      "pageViews": 414
+    },
+    {
+      "startsAt": "2020-12-09T00:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 234,
+      "pageViews": 672
+    },
+    {
+      "startsAt": "2020-12-09T00:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 68,
+      "pageViews": 251
+    },
+    {
+      "startsAt": "2020-12-09T00:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 756,
+      "pageViews": 2302
+    },
+    {
+      "startsAt": "2020-12-09T00:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 183,
+      "pageViews": 718
+    },
+    {
+      "startsAt": "2020-12-08T20:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 114,
+      "pageViews": 251
+    },
+    {
+      "startsAt": "2020-12-08T20:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 201,
+      "pageViews": 651
+    },
+    {
+      "startsAt": "2020-12-08T20:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 266,
+      "pageViews": 897
+    },
+    {
+      "startsAt": "2020-12-08T20:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 66,
+      "pageViews": 197
+    },
+    {
+      "startsAt": "2020-12-08T20:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 817,
+      "pageViews": 2713
+    },
+    {
+      "startsAt": "2020-12-08T20:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 170,
+      "pageViews": 717
+    },
+    {
+      "startsAt": "2020-12-08T11:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 40,
+      "pageViews": 86
+    },
+    {
+      "startsAt": "2020-12-08T11:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 21,
+      "pageViews": 59
+    },
+    {
+      "startsAt": "2020-12-08T11:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 34,
+      "pageViews": 190
+    },
+    {
+      "startsAt": "2020-12-08T11:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 14,
+      "pageViews": 29
+    },
+    {
+      "startsAt": "2020-12-08T11:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 142,
+      "pageViews": 600
+    },
+    {
+      "startsAt": "2020-12-08T11:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 33,
+      "pageViews": 236
+    },
+    {
+      "startsAt": "2020-12-07T17:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 100,
+      "pageViews": 268
+    },
+    {
+      "startsAt": "2020-12-07T17:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 180,
+      "pageViews": 747
+    },
+    {
+      "startsAt": "2020-12-07T17:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 257,
+      "pageViews": 851
+    },
+    {
+      "startsAt": "2020-12-07T17:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 52,
+      "pageViews": 156
+    },
+    {
+      "startsAt": "2020-12-07T17:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 741,
+      "pageViews": 2617
+    },
+    {
+      "startsAt": "2020-12-07T17:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 152,
+      "pageViews": 595
+    },
+    {
+      "startsAt": "2020-12-07T16:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 104,
+      "pageViews": 235
+    },
+    {
+      "startsAt": "2020-12-07T16:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 194,
+      "pageViews": 732
+    },
+    {
+      "startsAt": "2020-12-07T16:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 277,
+      "pageViews": 918
+    },
+    {
+      "startsAt": "2020-12-07T16:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 68,
+      "pageViews": 390
+    },
+    {
+      "startsAt": "2020-12-07T16:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 786,
+      "pageViews": 2864
+    },
+    {
+      "startsAt": "2020-12-07T16:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 143,
+      "pageViews": 589
+    },
+    {
+      "startsAt": "2020-12-10T14:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 144,
+      "pageViews": 273
+    },
+    {
+      "startsAt": "2020-12-10T14:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 123,
+      "pageViews": 486
+    },
+    {
+      "startsAt": "2020-12-10T14:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 177,
+      "pageViews": 657
+    },
+    {
+      "startsAt": "2020-12-10T14:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 60,
+      "pageViews": 222
+    },
+    {
+      "startsAt": "2020-12-10T14:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 646,
+      "pageViews": 2267
+    },
+    {
+      "startsAt": "2020-12-10T14:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 142,
+      "pageViews": 629
+    },
+    {
+      "startsAt": "2020-12-07T18:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 107,
+      "pageViews": 216
+    },
+    {
+      "startsAt": "2020-12-07T18:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 215,
+      "pageViews": 692
+    },
+    {
+      "startsAt": "2020-12-07T18:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 252,
+      "pageViews": 875
+    },
+    {
+      "startsAt": "2020-12-07T18:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 64,
+      "pageViews": 271
+    },
+    {
+      "startsAt": "2020-12-07T18:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 790,
+      "pageViews": 2762
+    },
+    {
+      "startsAt": "2020-12-07T18:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 152,
+      "pageViews": 708
+    },
+    {
+      "startsAt": "2020-12-08T15:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 90,
+      "pageViews": 249
+    },
+    {
+      "startsAt": "2020-12-08T15:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 139,
+      "pageViews": 499
+    },
+    {
+      "startsAt": "2020-12-08T15:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 224,
+      "pageViews": 750
+    },
+    {
+      "startsAt": "2020-12-08T15:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 54,
+      "pageViews": 167
+    },
+    {
+      "startsAt": "2020-12-08T15:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 664,
+      "pageViews": 2300
+    },
+    {
+      "startsAt": "2020-12-08T15:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 157,
+      "pageViews": 635
+    },
+    {
+      "startsAt": "2020-12-07T19:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 104,
+      "pageViews": 224
+    },
+    {
+      "startsAt": "2020-12-07T19:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 184,
+      "pageViews": 540
+    },
+    {
+      "startsAt": "2020-12-07T19:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 305,
+      "pageViews": 879
+    },
+    {
+      "startsAt": "2020-12-07T19:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 56,
+      "pageViews": 223
+    },
+    {
+      "startsAt": "2020-12-07T19:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 783,
+      "pageViews": 2468
+    },
+    {
+      "startsAt": "2020-12-07T19:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 134,
+      "pageViews": 602
+    },
+    {
+      "startsAt": "2020-12-10T08:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 76,
+      "pageViews": 103
+    },
+    {
+      "startsAt": "2020-12-10T08:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 41,
+      "pageViews": 114
+    },
+    {
+      "startsAt": "2020-12-10T08:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 58,
+      "pageViews": 271
+    },
+    {
+      "startsAt": "2020-12-10T08:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 27,
+      "pageViews": 91
+    },
+    {
+      "startsAt": "2020-12-10T08:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 270,
+      "pageViews": 897
+    },
+    {
+      "startsAt": "2020-12-10T08:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 68,
+      "pageViews": 318
+    },
+    {
+      "startsAt": "2020-12-09T13:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 118,
+      "pageViews": 296
+    },
+    {
+      "startsAt": "2020-12-09T13:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 100,
+      "pageViews": 378
+    },
+    {
+      "startsAt": "2020-12-09T13:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 193,
+      "pageViews": 565
+    },
+    {
+      "startsAt": "2020-12-09T13:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 50,
+      "pageViews": 198
+    },
+    {
+      "startsAt": "2020-12-09T13:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 605,
+      "pageViews": 1990
+    },
+    {
+      "startsAt": "2020-12-09T13:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 144,
+      "pageViews": 553
+    },
+    {
+      "startsAt": "2020-12-07T20:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 80,
+      "pageViews": 185
+    },
+    {
+      "startsAt": "2020-12-07T20:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 194,
+      "pageViews": 636
+    },
+    {
+      "startsAt": "2020-12-07T20:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 292,
+      "pageViews": 722
+    },
+    {
+      "startsAt": "2020-12-07T20:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 58,
+      "pageViews": 215
+    },
+    {
+      "startsAt": "2020-12-07T20:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 763,
+      "pageViews": 2409
+    },
+    {
+      "startsAt": "2020-12-07T20:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 139,
+      "pageViews": 651
+    },
+    {
+      "startsAt": "2020-12-07T02:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 138,
+      "pageViews": 338
+    },
+    {
+      "startsAt": "2020-12-07T02:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 127,
+      "pageViews": 341
+    },
+    {
+      "startsAt": "2020-12-07T02:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 196,
+      "pageViews": 727
+    },
+    {
+      "startsAt": "2020-12-07T02:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 71,
+      "pageViews": 248
+    },
+    {
+      "startsAt": "2020-12-07T02:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 700,
+      "pageViews": 2365
+    },
+    {
+      "startsAt": "2020-12-07T02:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 168,
+      "pageViews": 711
+    },
+    {
+      "startsAt": "2020-12-10T21:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 0,
+      "pageViews": 0
+    },
+    {
+      "startsAt": "2020-12-07T04:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 132,
+      "pageViews": 301
+    },
+    {
+      "startsAt": "2020-12-07T04:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 104,
+      "pageViews": 353
+    },
+    {
+      "startsAt": "2020-12-07T04:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 161,
+      "pageViews": 680
+    },
+    {
+      "startsAt": "2020-12-07T04:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 61,
+      "pageViews": 236
+    },
+    {
+      "startsAt": "2020-12-07T04:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 662,
+      "pageViews": 2407
+    },
+    {
+      "startsAt": "2020-12-07T04:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 204,
+      "pageViews": 837
+    },
+    {
+      "startsAt": "2020-12-10T02:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 283,
+      "pageViews": 528
+    },
+    {
+      "startsAt": "2020-12-10T02:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 168,
+      "pageViews": 467
+    },
+    {
+      "startsAt": "2020-12-10T02:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 220,
+      "pageViews": 712
+    },
+    {
+      "startsAt": "2020-12-10T02:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 130,
+      "pageViews": 439
+    },
+    {
+      "startsAt": "2020-12-10T02:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 1044,
+      "pageViews": 3048
+    },
+    {
+      "startsAt": "2020-12-10T02:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 243,
+      "pageViews": 902
+    },
+    {
+      "startsAt": "2020-12-07T21:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 113,
+      "pageViews": 235
+    },
+    {
+      "startsAt": "2020-12-07T21:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 179,
+      "pageViews": 585
+    },
+    {
+      "startsAt": "2020-12-07T21:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 241,
+      "pageViews": 743
+    },
+    {
+      "startsAt": "2020-12-07T21:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 40,
+      "pageViews": 117
+    },
+    {
+      "startsAt": "2020-12-07T21:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 710,
+      "pageViews": 2369
+    },
+    {
+      "startsAt": "2020-12-07T21:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 137,
+      "pageViews": 689
+    },
+    {
+      "startsAt": "2020-12-09T07:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 88,
+      "pageViews": 174
+    },
+    {
+      "startsAt": "2020-12-09T07:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 78,
+      "pageViews": 209
+    },
+    {
+      "startsAt": "2020-12-09T07:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 140,
+      "pageViews": 466
+    },
+    {
+      "startsAt": "2020-12-09T07:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 41,
+      "pageViews": 148
+    },
+    {
+      "startsAt": "2020-12-09T07:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 448,
+      "pageViews": 1424
+    },
+    {
+      "startsAt": "2020-12-09T07:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 101,
+      "pageViews": 427
+    },
+    {
+      "startsAt": "2020-12-09T06:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 137,
+      "pageViews": 260
+    },
+    {
+      "startsAt": "2020-12-09T06:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 107,
+      "pageViews": 270
+    },
+    {
+      "startsAt": "2020-12-09T06:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 197,
+      "pageViews": 757
+    },
+    {
+      "startsAt": "2020-12-09T06:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 71,
+      "pageViews": 226
+    },
+    {
+      "startsAt": "2020-12-09T06:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 659,
+      "pageViews": 2085
+    },
+    {
+      "startsAt": "2020-12-09T06:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 147,
+      "pageViews": 572
+    },
+    {
+      "startsAt": "2020-12-08T05:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 109,
+      "pageViews": 222
+    },
+    {
+      "startsAt": "2020-12-08T05:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 96,
+      "pageViews": 253
+    },
+    {
+      "startsAt": "2020-12-08T05:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 168,
+      "pageViews": 519
+    },
+    {
+      "startsAt": "2020-12-08T05:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 48,
+      "pageViews": 182
+    },
+    {
+      "startsAt": "2020-12-08T05:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 570,
+      "pageViews": 1939
+    },
+    {
+      "startsAt": "2020-12-08T05:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 149,
+      "pageViews": 763
+    },
+    {
+      "startsAt": "2020-12-10T15:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 213,
+      "pageViews": 506
+    },
+    {
+      "startsAt": "2020-12-10T15:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 207,
+      "pageViews": 688
+    },
+    {
+      "startsAt": "2020-12-10T15:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 320,
+      "pageViews": 1062
+    },
+    {
+      "startsAt": "2020-12-10T15:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 129,
+      "pageViews": 351
+    },
+    {
+      "startsAt": "2020-12-10T15:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 1337,
+      "pageViews": 3999
+    },
+    {
+      "startsAt": "2020-12-10T15:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 468,
+      "pageViews": 1392
+    },
+    {
+      "startsAt": "2020-12-07T23:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 0,
+      "pageViews": 0
+    },
+    {
+      "startsAt": "2020-12-09T01:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 144,
+      "pageViews": 334
+    },
+    {
+      "startsAt": "2020-12-09T01:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 158,
+      "pageViews": 524
+    },
+    {
+      "startsAt": "2020-12-09T01:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 227,
+      "pageViews": 755
+    },
+    {
+      "startsAt": "2020-12-09T01:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 82,
+      "pageViews": 224
+    },
+    {
+      "startsAt": "2020-12-09T01:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 792,
+      "pageViews": 2739
+    },
+    {
+      "startsAt": "2020-12-09T01:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 181,
+      "pageViews": 902
+    },
+    {
+      "startsAt": "2020-12-08T06:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 101,
+      "pageViews": 206
+    },
+    {
+      "startsAt": "2020-12-08T06:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 56,
+      "pageViews": 168
+    },
+    {
+      "startsAt": "2020-12-08T06:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 117,
+      "pageViews": 418
+    },
+    {
+      "startsAt": "2020-12-08T06:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 32,
+      "pageViews": 112
+    },
+    {
+      "startsAt": "2020-12-08T06:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 402,
+      "pageViews": 1325
+    },
+    {
+      "startsAt": "2020-12-08T06:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 96,
+      "pageViews": 421
+    },
+    {
+      "startsAt": "2020-12-07T11:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 32,
+      "pageViews": 104
+    },
+    {
+      "startsAt": "2020-12-07T11:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 24,
+      "pageViews": 69
+    },
+    {
+      "startsAt": "2020-12-07T11:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 37,
+      "pageViews": 345
+    },
+    {
+      "startsAt": "2020-12-07T11:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 28,
+      "pageViews": 95
+    },
+    {
+      "startsAt": "2020-12-07T11:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 176,
+      "pageViews": 826
+    },
+    {
+      "startsAt": "2020-12-07T11:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 55,
+      "pageViews": 213
+    }
+  ],
+  "dayStats": [
+    {
+      "startsAt": "2020-11-18T00:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 2120,
+      "pageViews": 5896
+    },
+    {
+      "startsAt": "2020-11-18T00:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 1769,
+      "pageViews": 9943
+    },
+    {
+      "startsAt": "2020-11-18T00:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 3749,
+      "pageViews": 17955
+    },
+    {
+      "startsAt": "2020-11-18T00:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 950,
+      "pageViews": 5264
+    },
+    {
+      "startsAt": "2020-11-18T00:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 10679,
+      "pageViews": 53130
+    },
+    {
+      "startsAt": "2020-11-18T00:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 2091,
+      "pageViews": 14072
+    },
+    {
+      "startsAt": "2020-11-11T00:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 2141,
+      "pageViews": 6047
+    },
+    {
+      "startsAt": "2020-11-11T00:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 1832,
+      "pageViews": 9987
+    },
+    {
+      "startsAt": "2020-11-11T00:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 3491,
+      "pageViews": 16548
+    },
+    {
+      "startsAt": "2020-11-11T00:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 1096,
+      "pageViews": 5138
+    },
+    {
+      "startsAt": "2020-11-11T00:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 11508,
+      "pageViews": 53607
+    },
+    {
+      "startsAt": "2020-11-11T00:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 2948,
+      "pageViews": 15887
+    },
+    {
+      "startsAt": "2020-11-15T00:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 2001,
+      "pageViews": 5980
+    },
+    {
+      "startsAt": "2020-11-15T00:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 1305,
+      "pageViews": 6764
+    },
+    {
+      "startsAt": "2020-11-15T00:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 2824,
+      "pageViews": 14204
+    },
+    {
+      "startsAt": "2020-11-15T00:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 803,
+      "pageViews": 5419
+    },
+    {
+      "startsAt": "2020-11-15T00:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 8734,
+      "pageViews": 46186
+    },
+    {
+      "startsAt": "2020-11-15T00:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 1801,
+      "pageViews": 13819
+    },
+    {
+      "startsAt": "2020-10-25T00:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 1646,
+      "pageViews": 5468
+    },
+    {
+      "startsAt": "2020-10-25T00:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 1101,
+      "pageViews": 5542
+    },
+    {
+      "startsAt": "2020-10-25T00:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 2227,
+      "pageViews": 10280
+    },
+    {
+      "startsAt": "2020-10-25T00:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 745,
+      "pageViews": 4881
+    },
+    {
+      "startsAt": "2020-10-25T00:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 7436,
+      "pageViews": 38576
+    },
+    {
+      "startsAt": "2020-10-25T00:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 1717,
+      "pageViews": 12405
+    },
+    {
+      "startsAt": "2020-11-05T00:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 1614,
+      "pageViews": 4528
+    },
+    {
+      "startsAt": "2020-11-05T00:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 1370,
+      "pageViews": 7946
+    },
+    {
+      "startsAt": "2020-11-05T00:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 2971,
+      "pageViews": 13567
+    },
+    {
+      "startsAt": "2020-11-05T00:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 775,
+      "pageViews": 4035
+    },
+    {
+      "startsAt": "2020-11-05T00:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 8414,
+      "pageViews": 40712
+    },
+    {
+      "startsAt": "2020-11-05T00:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 1684,
+      "pageViews": 10636
+    },
+    {
+      "startsAt": "2020-10-23T00:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 1667,
+      "pageViews": 4974
+    },
+    {
+      "startsAt": "2020-10-23T00:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 1380,
+      "pageViews": 7890
+    },
+    {
+      "startsAt": "2020-10-23T00:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 2887,
+      "pageViews": 12877
+    },
+    {
+      "startsAt": "2020-10-23T00:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 699,
+      "pageViews": 4187
+    },
+    {
+      "startsAt": "2020-10-23T00:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 8294,
+      "pageViews": 42054
+    },
+    {
+      "startsAt": "2020-10-23T00:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 1661,
+      "pageViews": 12126
+    },
+    {
+      "startsAt": "2020-11-29T00:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 1888,
+      "pageViews": 5893
+    },
+    {
+      "startsAt": "2020-11-29T00:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 1113,
+      "pageViews": 5869
+    },
+    {
+      "startsAt": "2020-11-29T00:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 2696,
+      "pageViews": 14244
+    },
+    {
+      "startsAt": "2020-11-29T00:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 723,
+      "pageViews": 4476
+    },
+    {
+      "startsAt": "2020-11-29T00:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 7979,
+      "pageViews": 42374
+    },
+    {
+      "startsAt": "2020-11-29T00:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 1559,
+      "pageViews": 11892
+    },
+    {
+      "startsAt": "2020-10-15T00:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 1698,
+      "pageViews": 4945
+    },
+    {
+      "startsAt": "2020-10-15T00:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 1477,
+      "pageViews": 8865
+    },
+    {
+      "startsAt": "2020-10-15T00:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 2952,
+      "pageViews": 13638
+    },
+    {
+      "startsAt": "2020-10-15T00:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 691,
+      "pageViews": 4265
+    },
+    {
+      "startsAt": "2020-10-15T00:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 8421,
+      "pageViews": 42866
+    },
+    {
+      "startsAt": "2020-10-15T00:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 1603,
+      "pageViews": 11153
+    },
+    {
+      "startsAt": "2020-12-07T00:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 1787,
+      "pageViews": 4861
+    },
+    {
+      "startsAt": "2020-12-07T00:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 1481,
+      "pageViews": 9030
+    },
+    {
+      "startsAt": "2020-12-07T00:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 3064,
+      "pageViews": 15457
+    },
+    {
+      "startsAt": "2020-12-07T00:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 718,
+      "pageViews": 4437
+    },
+    {
+      "startsAt": "2020-12-07T00:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 8639,
+      "pageViews": 46025
+    },
+    {
+      "startsAt": "2020-12-07T00:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 1589,
+      "pageViews": 12240
+    },
+    {
+      "startsAt": "2020-10-29T00:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 1675,
+      "pageViews": 4935
+    },
+    {
+      "startsAt": "2020-10-29T00:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 1455,
+      "pageViews": 8307
+    },
+    {
+      "startsAt": "2020-10-29T00:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 3036,
+      "pageViews": 11341
+    },
+    {
+      "startsAt": "2020-10-29T00:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 788,
+      "pageViews": 4232
+    },
+    {
+      "startsAt": "2020-10-29T00:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 8764,
+      "pageViews": 41355
+    },
+    {
+      "startsAt": "2020-10-29T00:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 1810,
+      "pageViews": 12540
+    },
+    {
+      "startsAt": "2020-11-27T00:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 1823,
+      "pageViews": 5383
+    },
+    {
+      "startsAt": "2020-11-27T00:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 1155,
+      "pageViews": 5775
+    },
+    {
+      "startsAt": "2020-11-27T00:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 2594,
+      "pageViews": 12275
+    },
+    {
+      "startsAt": "2020-11-27T00:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 751,
+      "pageViews": 4540
+    },
+    {
+      "startsAt": "2020-11-27T00:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 7968,
+      "pageViews": 39364
+    },
+    {
+      "startsAt": "2020-11-27T00:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 1645,
+      "pageViews": 11391
+    },
+    {
+      "startsAt": "2020-11-06T00:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 1552,
+      "pageViews": 4481
+    },
+    {
+      "startsAt": "2020-11-06T00:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 1239,
+      "pageViews": 6792
+    },
+    {
+      "startsAt": "2020-11-06T00:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 2723,
+      "pageViews": 13787
+    },
+    {
+      "startsAt": "2020-11-06T00:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 634,
+      "pageViews": 3714
+    },
+    {
+      "startsAt": "2020-11-06T00:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 7550,
+      "pageViews": 38125
+    },
+    {
+      "startsAt": "2020-11-06T00:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 1402,
+      "pageViews": 9351
+    },
+    {
+      "startsAt": "2020-12-08T00:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 1799,
+      "pageViews": 5153
+    },
+    {
+      "startsAt": "2020-12-08T00:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 1474,
+      "pageViews": 8757
+    },
+    {
+      "startsAt": "2020-12-08T00:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 3334,
+      "pageViews": 15197
+    },
+    {
+      "startsAt": "2020-12-08T00:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 746,
+      "pageViews": 3839
+    },
+    {
+      "startsAt": "2020-12-08T00:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 9034,
+      "pageViews": 44924
+    },
+    {
+      "startsAt": "2020-12-08T00:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 1681,
+      "pageViews": 11978
+    },
+    {
+      "startsAt": "2020-11-22T00:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 1755,
+      "pageViews": 5504
+    },
+    {
+      "startsAt": "2020-11-22T00:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 1163,
+      "pageViews": 5940
+    },
+    {
+      "startsAt": "2020-11-22T00:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 2511,
+      "pageViews": 12570
+    },
+    {
+      "startsAt": "2020-11-22T00:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 707,
+      "pageViews": 4303
+    },
+    {
+      "startsAt": "2020-11-22T00:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 7743,
+      "pageViews": 40108
+    },
+    {
+      "startsAt": "2020-11-22T00:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 1607,
+      "pageViews": 11791
+    },
+    {
+      "startsAt": "2020-11-17T00:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 2073,
+      "pageViews": 6080
+    },
+    {
+      "startsAt": "2020-11-17T00:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 1662,
+      "pageViews": 9792
+    },
+    {
+      "startsAt": "2020-11-17T00:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 3746,
+      "pageViews": 18797
+    },
+    {
+      "startsAt": "2020-11-17T00:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 802,
+      "pageViews": 4737
+    },
+    {
+      "startsAt": "2020-11-17T00:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 10074,
+      "pageViews": 52969
+    },
+    {
+      "startsAt": "2020-11-17T00:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 1791,
+      "pageViews": 13563
+    },
+    {
+      "startsAt": "2020-10-22T00:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 1751,
+      "pageViews": 4808
+    },
+    {
+      "startsAt": "2020-10-22T00:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 1542,
+      "pageViews": 9154
+    },
+    {
+      "startsAt": "2020-10-22T00:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 3082,
+      "pageViews": 14992
+    },
+    {
+      "startsAt": "2020-10-22T00:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 733,
+      "pageViews": 4169
+    },
+    {
+      "startsAt": "2020-10-22T00:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 8711,
+      "pageViews": 45097
+    },
+    {
+      "startsAt": "2020-10-22T00:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 1603,
+      "pageViews": 11974
+    },
+    {
+      "startsAt": "2020-10-27T00:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 1895,
+      "pageViews": 5506
+    },
+    {
+      "startsAt": "2020-10-27T00:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 1763,
+      "pageViews": 9122
+    },
+    {
+      "startsAt": "2020-10-27T00:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 3384,
+      "pageViews": 14604
+    },
+    {
+      "startsAt": "2020-10-27T00:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 1076,
+      "pageViews": 4657
+    },
+    {
+      "startsAt": "2020-10-27T00:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 11461,
+      "pageViews": 48918
+    },
+    {
+      "startsAt": "2020-10-27T00:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 3343,
+      "pageViews": 15029
+    },
+    {
+      "startsAt": "2020-11-07T00:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 1544,
+      "pageViews": 4594
+    },
+    {
+      "startsAt": "2020-11-07T00:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 949,
+      "pageViews": 4843
+    },
+    {
+      "startsAt": "2020-11-07T00:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 2073,
+      "pageViews": 11622
+    },
+    {
+      "startsAt": "2020-11-07T00:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 673,
+      "pageViews": 3693
+    },
+    {
+      "startsAt": "2020-11-07T00:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 6797,
+      "pageViews": 34928
+    },
+    {
+      "startsAt": "2020-11-07T00:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 1558,
+      "pageViews": 10176
+    },
+    {
+      "startsAt": "2020-10-17T00:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 1675,
+      "pageViews": 5254
+    },
+    {
+      "startsAt": "2020-10-17T00:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 1086,
+      "pageViews": 5766
+    },
+    {
+      "startsAt": "2020-10-17T00:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 2362,
+      "pageViews": 11008
+    },
+    {
+      "startsAt": "2020-10-17T00:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 809,
+      "pageViews": 5244
+    },
+    {
+      "startsAt": "2020-10-17T00:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 7693,
+      "pageViews": 39608
+    },
+    {
+      "startsAt": "2020-10-17T00:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 1761,
+      "pageViews": 12336
+    },
+    {
+      "startsAt": "2020-10-28T00:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 1730,
+      "pageViews": 4905
+    },
+    {
+      "startsAt": "2020-10-28T00:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 1628,
+      "pageViews": 8906
+    },
+    {
+      "startsAt": "2020-10-28T00:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 3248,
+      "pageViews": 13446
+    },
+    {
+      "startsAt": "2020-10-28T00:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 944,
+      "pageViews": 4811
+    },
+    {
+      "startsAt": "2020-10-28T00:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 9857,
+      "pageViews": 45355
+    },
+    {
+      "startsAt": "2020-10-28T00:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 2307,
+      "pageViews": 13287
+    },
+    {
+      "startsAt": "2020-12-01T00:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 2073,
+      "pageViews": 5632
+    },
+    {
+      "startsAt": "2020-12-01T00:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 1725,
+      "pageViews": 10451
+    },
+    {
+      "startsAt": "2020-12-01T00:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 3717,
+      "pageViews": 16774
+    },
+    {
+      "startsAt": "2020-12-01T00:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 944,
+      "pageViews": 5001
+    },
+    {
+      "startsAt": "2020-12-01T00:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 10888,
+      "pageViews": 52778
+    },
+    {
+      "startsAt": "2020-12-01T00:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 2429,
+      "pageViews": 14920
+    },
+    {
+      "startsAt": "2020-12-10T00:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 0,
+      "pageViews": 0
+    },
+    {
+      "startsAt": "2020-12-09T00:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 3059,
+      "pageViews": 7440
+    },
+    {
+      "startsAt": "2020-12-09T00:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 2069,
+      "pageViews": 11734
+    },
+    {
+      "startsAt": "2020-12-09T00:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 4306,
+      "pageViews": 19482
+    },
+    {
+      "startsAt": "2020-12-09T00:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 1121,
+      "pageViews": 5750
+    },
+    {
+      "startsAt": "2020-12-09T00:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 12870,
+      "pageViews": 61321
+    },
+    {
+      "startsAt": "2020-12-09T00:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 2315,
+      "pageViews": 16915
+    },
+    {
+      "startsAt": "2020-10-31T00:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 1497,
+      "pageViews": 4734
+    },
+    {
+      "startsAt": "2020-10-31T00:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 982,
+      "pageViews": 5140
+    },
+    {
+      "startsAt": "2020-10-31T00:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 1991,
+      "pageViews": 10679
+    },
+    {
+      "startsAt": "2020-10-31T00:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 654,
+      "pageViews": 4069
+    },
+    {
+      "startsAt": "2020-10-31T00:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 6670,
+      "pageViews": 35727
+    },
+    {
+      "startsAt": "2020-10-31T00:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 1546,
+      "pageViews": 11105
+    },
+    {
+      "startsAt": "2020-11-19T00:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 1915,
+      "pageViews": 5297
+    },
+    {
+      "startsAt": "2020-11-19T00:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 1662,
+      "pageViews": 9286
+    },
+    {
+      "startsAt": "2020-11-19T00:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 3483,
+      "pageViews": 16469
+    },
+    {
+      "startsAt": "2020-11-19T00:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 795,
+      "pageViews": 4732
+    },
+    {
+      "startsAt": "2020-11-19T00:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 9636,
+      "pageViews": 48306
+    },
+    {
+      "startsAt": "2020-11-19T00:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 1781,
+      "pageViews": 12522
+    },
+    {
+      "startsAt": "2020-11-08T00:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 1649,
+      "pageViews": 5028
+    },
+    {
+      "startsAt": "2020-11-08T00:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 1026,
+      "pageViews": 4827
+    },
+    {
+      "startsAt": "2020-11-08T00:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 2147,
+      "pageViews": 11037
+    },
+    {
+      "startsAt": "2020-11-08T00:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 740,
+      "pageViews": 4144
+    },
+    {
+      "startsAt": "2020-11-08T00:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 7095,
+      "pageViews": 35232
+    },
+    {
+      "startsAt": "2020-11-08T00:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 1533,
+      "pageViews": 10196
+    },
+    {
+      "startsAt": "2020-11-30T00:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 1987,
+      "pageViews": 5260
+    },
+    {
+      "startsAt": "2020-11-30T00:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 1509,
+      "pageViews": 9160
+    },
+    {
+      "startsAt": "2020-11-30T00:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 3551,
+      "pageViews": 16547
+    },
+    {
+      "startsAt": "2020-11-30T00:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 723,
+      "pageViews": 4334
+    },
+    {
+      "startsAt": "2020-11-30T00:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 9403,
+      "pageViews": 47744
+    },
+    {
+      "startsAt": "2020-11-30T00:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 1633,
+      "pageViews": 12443
+    },
+    {
+      "startsAt": "2020-11-16T00:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 1916,
+      "pageViews": 5684
+    },
+    {
+      "startsAt": "2020-11-16T00:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 1665,
+      "pageViews": 10298
+    },
+    {
+      "startsAt": "2020-11-16T00:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 3475,
+      "pageViews": 17232
+    },
+    {
+      "startsAt": "2020-11-16T00:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 813,
+      "pageViews": 5156
+    },
+    {
+      "startsAt": "2020-11-16T00:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 9579,
+      "pageViews": 51856
+    },
+    {
+      "startsAt": "2020-11-16T00:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 1710,
+      "pageViews": 13486
+    },
+    {
+      "startsAt": "2020-11-09T00:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 1704,
+      "pageViews": 5166
+    },
+    {
+      "startsAt": "2020-11-09T00:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 1471,
+      "pageViews": 8247
+    },
+    {
+      "startsAt": "2020-11-09T00:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 3135,
+      "pageViews": 15283
+    },
+    {
+      "startsAt": "2020-11-09T00:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 701,
+      "pageViews": 4294
+    },
+    {
+      "startsAt": "2020-11-09T00:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 8565,
+      "pageViews": 43835
+    },
+    {
+      "startsAt": "2020-11-09T00:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 1554,
+      "pageViews": 10845
+    },
+    {
+      "startsAt": "2020-10-16T00:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 1663,
+      "pageViews": 4821
+    },
+    {
+      "startsAt": "2020-10-16T00:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 1446,
+      "pageViews": 8796
+    },
+    {
+      "startsAt": "2020-10-16T00:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 2713,
+      "pageViews": 12252
+    },
+    {
+      "startsAt": "2020-10-16T00:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 695,
+      "pageViews": 4254
+    },
+    {
+      "startsAt": "2020-10-16T00:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 8001,
+      "pageViews": 40260
+    },
+    {
+      "startsAt": "2020-10-16T00:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 1484,
+      "pageViews": 10137
+    },
+    {
+      "startsAt": "2020-12-05T00:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 1936,
+      "pageViews": 5817
+    },
+    {
+      "startsAt": "2020-12-05T00:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 1171,
+      "pageViews": 6011
+    },
+    {
+      "startsAt": "2020-12-05T00:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 2521,
+      "pageViews": 12710
+    },
+    {
+      "startsAt": "2020-12-05T00:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 803,
+      "pageViews": 4535
+    },
+    {
+      "startsAt": "2020-12-05T00:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 8305,
+      "pageViews": 43265
+    },
+    {
+      "startsAt": "2020-12-05T00:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 1874,
+      "pageViews": 14192
+    },
+    {
+      "startsAt": "2020-11-20T00:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 1798,
+      "pageViews": 5234
+    },
+    {
+      "startsAt": "2020-11-20T00:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 1409,
+      "pageViews": 8461
+    },
+    {
+      "startsAt": "2020-11-20T00:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 3064,
+      "pageViews": 14035
+    },
+    {
+      "startsAt": "2020-11-20T00:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 720,
+      "pageViews": 4534
+    },
+    {
+      "startsAt": "2020-11-20T00:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 8550,
+      "pageViews": 44433
+    },
+    {
+      "startsAt": "2020-11-20T00:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 1559,
+      "pageViews": 12169
+    },
+    {
+      "startsAt": "2020-10-30T00:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 1521,
+      "pageViews": 4453
+    },
+    {
+      "startsAt": "2020-10-30T00:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 1312,
+      "pageViews": 8007
+    },
+    {
+      "startsAt": "2020-10-30T00:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 2610,
+      "pageViews": 9710
+    },
+    {
+      "startsAt": "2020-10-30T00:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 644,
+      "pageViews": 4078
+    },
+    {
+      "startsAt": "2020-10-30T00:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 7688,
+      "pageViews": 37516
+    },
+    {
+      "startsAt": "2020-10-30T00:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 1601,
+      "pageViews": 11268
+    },
+    {
+      "startsAt": "2020-11-25T00:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 1802,
+      "pageViews": 5128
+    },
+    {
+      "startsAt": "2020-11-25T00:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 1421,
+      "pageViews": 7099
+    },
+    {
+      "startsAt": "2020-11-25T00:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 2946,
+      "pageViews": 13870
+    },
+    {
+      "startsAt": "2020-11-25T00:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 804,
+      "pageViews": 4181
+    },
+    {
+      "startsAt": "2020-11-25T00:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 9097,
+      "pageViews": 43304
+    },
+    {
+      "startsAt": "2020-11-25T00:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 2124,
+      "pageViews": 13026
+    },
+    {
+      "startsAt": "2020-11-10T00:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 1902,
+      "pageViews": 5733
+    },
+    {
+      "startsAt": "2020-11-10T00:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 1739,
+      "pageViews": 9738
+    },
+    {
+      "startsAt": "2020-11-10T00:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 3603,
+      "pageViews": 16164
+    },
+    {
+      "startsAt": "2020-11-10T00:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 971,
+      "pageViews": 5002
+    },
+    {
+      "startsAt": "2020-11-10T00:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 10631,
+      "pageViews": 50274
+    },
+    {
+      "startsAt": "2020-11-10T00:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 2416,
+      "pageViews": 13637
+    },
+    {
+      "startsAt": "2020-11-21T00:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 1778,
+      "pageViews": 5475
+    },
+    {
+      "startsAt": "2020-11-21T00:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 1075,
+      "pageViews": 5756
+    },
+    {
+      "startsAt": "2020-11-21T00:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 2545,
+      "pageViews": 12212
+    },
+    {
+      "startsAt": "2020-11-21T00:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 684,
+      "pageViews": 4281
+    },
+    {
+      "startsAt": "2020-11-21T00:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 7685,
+      "pageViews": 39712
+    },
+    {
+      "startsAt": "2020-11-21T00:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 1603,
+      "pageViews": 11988
+    },
+    {
+      "startsAt": "2020-12-03T00:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 1902,
+      "pageViews": 5112
+    },
+    {
+      "startsAt": "2020-12-03T00:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 1489,
+      "pageViews": 9041
+    },
+    {
+      "startsAt": "2020-12-03T00:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 3224,
+      "pageViews": 15659
+    },
+    {
+      "startsAt": "2020-12-03T00:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 689,
+      "pageViews": 4281
+    },
+    {
+      "startsAt": "2020-12-03T00:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 8880,
+      "pageViews": 46796
+    },
+    {
+      "startsAt": "2020-12-03T00:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 1576,
+      "pageViews": 12703
+    },
+    {
+      "startsAt": "2020-12-02T00:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 1891,
+      "pageViews": 5592
+    },
+    {
+      "startsAt": "2020-12-02T00:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 1632,
+      "pageViews": 10012
+    },
+    {
+      "startsAt": "2020-12-02T00:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 3473,
+      "pageViews": 15934
+    },
+    {
+      "startsAt": "2020-12-02T00:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 864,
+      "pageViews": 4635
+    },
+    {
+      "startsAt": "2020-12-02T00:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 9885,
+      "pageViews": 49821
+    },
+    {
+      "startsAt": "2020-12-02T00:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 2025,
+      "pageViews": 13648
+    },
+    {
+      "startsAt": "2020-11-02T00:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 1746,
+      "pageViews": 4884
+    },
+    {
+      "startsAt": "2020-11-02T00:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 1480,
+      "pageViews": 9058
+    },
+    {
+      "startsAt": "2020-11-02T00:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 3155,
+      "pageViews": 13885
+    },
+    {
+      "startsAt": "2020-11-02T00:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 634,
+      "pageViews": 3815
+    },
+    {
+      "startsAt": "2020-11-02T00:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 8583,
+      "pageViews": 43184
+    },
+    {
+      "startsAt": "2020-11-02T00:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 1568,
+      "pageViews": 11542
+    },
+    {
+      "startsAt": "2020-10-21T00:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 2896,
+      "pageViews": 7349
+    },
+    {
+      "startsAt": "2020-10-21T00:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 2047,
+      "pageViews": 11033
+    },
+    {
+      "startsAt": "2020-10-21T00:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 3857,
+      "pageViews": 17298
+    },
+    {
+      "startsAt": "2020-10-21T00:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 884,
+      "pageViews": 5369
+    },
+    {
+      "startsAt": "2020-10-21T00:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 11829,
+      "pageViews": 56387
+    },
+    {
+      "startsAt": "2020-10-21T00:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 2145,
+      "pageViews": 15338
+    },
+    {
+      "startsAt": "2020-11-01T00:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 1595,
+      "pageViews": 4886
+    },
+    {
+      "startsAt": "2020-11-01T00:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 1065,
+      "pageViews": 5194
+    },
+    {
+      "startsAt": "2020-11-01T00:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 2193,
+      "pageViews": 9378
+    },
+    {
+      "startsAt": "2020-11-01T00:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 678,
+      "pageViews": 4054
+    },
+    {
+      "startsAt": "2020-11-01T00:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 6989,
+      "pageViews": 34183
+    },
+    {
+      "startsAt": "2020-11-01T00:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 1458,
+      "pageViews": 10671
+    },
+    {
+      "startsAt": "2020-11-26T00:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 1660,
+      "pageViews": 5446
+    },
+    {
+      "startsAt": "2020-11-26T00:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 1102,
+      "pageViews": 5229
+    },
+    {
+      "startsAt": "2020-11-26T00:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 2478,
+      "pageViews": 12176
+    },
+    {
+      "startsAt": "2020-11-26T00:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 855,
+      "pageViews": 4471
+    },
+    {
+      "startsAt": "2020-11-26T00:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 8150,
+      "pageViews": 40051
+    },
+    {
+      "startsAt": "2020-11-26T00:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 2055,
+      "pageViews": 12729
+    },
+    {
+      "startsAt": "2020-10-18T00:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 1749,
+      "pageViews": 5286
+    },
+    {
+      "startsAt": "2020-10-18T00:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 1084,
+      "pageViews": 5868
+    },
+    {
+      "startsAt": "2020-10-18T00:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 2326,
+      "pageViews": 10561
+    },
+    {
+      "startsAt": "2020-10-18T00:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 772,
+      "pageViews": 4555
+    },
+    {
+      "startsAt": "2020-10-18T00:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 7654,
+      "pageViews": 38617
+    },
+    {
+      "startsAt": "2020-10-18T00:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 1723,
+      "pageViews": 12347
+    },
+    {
+      "startsAt": "2020-11-12T00:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 2047,
+      "pageViews": 6150
+    },
+    {
+      "startsAt": "2020-11-12T00:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 2062,
+      "pageViews": 11686
+    },
+    {
+      "startsAt": "2020-11-12T00:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 4084,
+      "pageViews": 18594
+    },
+    {
+      "startsAt": "2020-11-12T00:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 1068,
+      "pageViews": 5531
+    },
+    {
+      "startsAt": "2020-11-12T00:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 12106,
+      "pageViews": 59331
+    },
+    {
+      "startsAt": "2020-11-12T00:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 2845,
+      "pageViews": 17370
+    },
+    {
+      "startsAt": "2020-10-26T00:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 1815,
+      "pageViews": 5464
+    },
+    {
+      "startsAt": "2020-10-26T00:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 1889,
+      "pageViews": 10215
+    },
+    {
+      "startsAt": "2020-10-26T00:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 3645,
+      "pageViews": 14302
+    },
+    {
+      "startsAt": "2020-10-26T00:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 993,
+      "pageViews": 5031
+    },
+    {
+      "startsAt": "2020-10-26T00:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 11339,
+      "pageViews": 50251
+    },
+    {
+      "startsAt": "2020-10-26T00:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 2997,
+      "pageViews": 15239
+    },
+    {
+      "startsAt": "2020-11-23T00:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 1743,
+      "pageViews": 5107
+    },
+    {
+      "startsAt": "2020-11-23T00:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 1397,
+      "pageViews": 8551
+    },
+    {
+      "startsAt": "2020-11-23T00:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 3216,
+      "pageViews": 15310
+    },
+    {
+      "startsAt": "2020-11-23T00:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 833,
+      "pageViews": 4816
+    },
+    {
+      "startsAt": "2020-11-23T00:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 8980,
+      "pageViews": 46310
+    },
+    {
+      "startsAt": "2020-11-23T00:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 1791,
+      "pageViews": 12526
+    },
+    {
+      "startsAt": "2020-12-04T00:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 1910,
+      "pageViews": 5049
+    },
+    {
+      "startsAt": "2020-12-04T00:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 1418,
+      "pageViews": 8393
+    },
+    {
+      "startsAt": "2020-12-04T00:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 3100,
+      "pageViews": 13881
+    },
+    {
+      "startsAt": "2020-12-04T00:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 726,
+      "pageViews": 4516
+    },
+    {
+      "startsAt": "2020-12-04T00:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 8753,
+      "pageViews": 44340
+    },
+    {
+      "startsAt": "2020-12-04T00:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 1599,
+      "pageViews": 12501
+    },
+    {
+      "startsAt": "2020-11-13T00:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 2262,
+      "pageViews": 6172
+    },
+    {
+      "startsAt": "2020-11-13T00:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 1955,
+      "pageViews": 11338
+    },
+    {
+      "startsAt": "2020-11-13T00:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 4050,
+      "pageViews": 18855
+    },
+    {
+      "startsAt": "2020-11-13T00:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 1012,
+      "pageViews": 5452
+    },
+    {
+      "startsAt": "2020-11-13T00:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 12086,
+      "pageViews": 60283
+    },
+    {
+      "startsAt": "2020-11-13T00:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 2807,
+      "pageViews": 18466
+    },
+    {
+      "startsAt": "2020-10-19T00:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 1749,
+      "pageViews": 5164
+    },
+    {
+      "startsAt": "2020-10-19T00:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 1544,
+      "pageViews": 9575
+    },
+    {
+      "startsAt": "2020-10-19T00:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 3112,
+      "pageViews": 13734
+    },
+    {
+      "startsAt": "2020-10-19T00:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 800,
+      "pageViews": 4403
+    },
+    {
+      "startsAt": "2020-10-19T00:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 9185,
+      "pageViews": 45418
+    },
+    {
+      "startsAt": "2020-10-19T00:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 1980,
+      "pageViews": 12542
+    },
+    {
+      "startsAt": "2020-11-24T00:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 1819,
+      "pageViews": 5287
+    },
+    {
+      "startsAt": "2020-11-24T00:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 1587,
+      "pageViews": 8693
+    },
+    {
+      "startsAt": "2020-11-24T00:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 3465,
+      "pageViews": 15996
+    },
+    {
+      "startsAt": "2020-11-24T00:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 933,
+      "pageViews": 4489
+    },
+    {
+      "startsAt": "2020-11-24T00:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 9980,
+      "pageViews": 48253
+    },
+    {
+      "startsAt": "2020-11-24T00:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 2176,
+      "pageViews": 13788
+    },
+    {
+      "startsAt": "2020-11-04T00:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 1370,
+      "pageViews": 3693
+    },
+    {
+      "startsAt": "2020-11-04T00:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 1245,
+      "pageViews": 6672
+    },
+    {
+      "startsAt": "2020-11-04T00:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 2553,
+      "pageViews": 11880
+    },
+    {
+      "startsAt": "2020-11-04T00:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 683,
+      "pageViews": 3123
+    },
+    {
+      "startsAt": "2020-11-04T00:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 7397,
+      "pageViews": 35086
+    },
+    {
+      "startsAt": "2020-11-04T00:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 1546,
+      "pageViews": 9718
+    },
+    {
+      "startsAt": "2020-11-03T00:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 1818,
+      "pageViews": 5234
+    },
+    {
+      "startsAt": "2020-11-03T00:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 1524,
+      "pageViews": 8944
+    },
+    {
+      "startsAt": "2020-11-03T00:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 3181,
+      "pageViews": 13064
+    },
+    {
+      "startsAt": "2020-11-03T00:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 733,
+      "pageViews": 4002
+    },
+    {
+      "startsAt": "2020-11-03T00:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 8991,
+      "pageViews": 43358
+    },
+    {
+      "startsAt": "2020-11-03T00:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 1735,
+      "pageViews": 12114
+    },
+    {
+      "startsAt": "2020-11-14T00:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 2110,
+      "pageViews": 6337
+    },
+    {
+      "startsAt": "2020-11-14T00:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 1370,
+      "pageViews": 7307
+    },
+    {
+      "startsAt": "2020-11-14T00:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 2982,
+      "pageViews": 15648
+    },
+    {
+      "startsAt": "2020-11-14T00:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 920,
+      "pageViews": 5838
+    },
+    {
+      "startsAt": "2020-11-14T00:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 9316,
+      "pageViews": 50152
+    },
+    {
+      "startsAt": "2020-11-14T00:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 1934,
+      "pageViews": 15022
+    },
+    {
+      "startsAt": "2020-10-24T00:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 1611,
+      "pageViews": 5091
+    },
+    {
+      "startsAt": "2020-10-24T00:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 999,
+      "pageViews": 5375
+    },
+    {
+      "startsAt": "2020-10-24T00:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 2094,
+      "pageViews": 10978
+    },
+    {
+      "startsAt": "2020-10-24T00:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 675,
+      "pageViews": 4241
+    },
+    {
+      "startsAt": "2020-10-24T00:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 6958,
+      "pageViews": 37257
+    },
+    {
+      "startsAt": "2020-10-24T00:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 1579,
+      "pageViews": 11572
+    },
+    {
+      "startsAt": "2020-11-28T00:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 1963,
+      "pageViews": 5618
+    },
+    {
+      "startsAt": "2020-11-28T00:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 1153,
+      "pageViews": 5694
+    },
+    {
+      "startsAt": "2020-11-28T00:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 2702,
+      "pageViews": 12576
+    },
+    {
+      "startsAt": "2020-11-28T00:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 767,
+      "pageViews": 4517
+    },
+    {
+      "startsAt": "2020-11-28T00:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 8279,
+      "pageViews": 41283
+    },
+    {
+      "startsAt": "2020-11-28T00:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 1694,
+      "pageViews": 12878
+    },
+    {
+      "startsAt": "2020-10-20T00:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 1879,
+      "pageViews": 5548
+    },
+    {
+      "startsAt": "2020-10-20T00:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 1613,
+      "pageViews": 9501
+    },
+    {
+      "startsAt": "2020-10-20T00:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 3335,
+      "pageViews": 15644
+    },
+    {
+      "startsAt": "2020-10-20T00:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 848,
+      "pageViews": 4482
+    },
+    {
+      "startsAt": "2020-10-20T00:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 9767,
+      "pageViews": 48711
+    },
+    {
+      "startsAt": "2020-10-20T00:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 2092,
+      "pageViews": 13536
+    },
+    {
+      "startsAt": "2020-12-06T00:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 1962,
+      "pageViews": 5875
+    },
+    {
+      "startsAt": "2020-12-06T00:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 1195,
+      "pageViews": 6340
+    },
+    {
+      "startsAt": "2020-12-06T00:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 2495,
+      "pageViews": 13255
+    },
+    {
+      "startsAt": "2020-12-06T00:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 776,
+      "pageViews": 5032
+    },
+    {
+      "startsAt": "2020-12-06T00:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 8091,
+      "pageViews": 42835
+    },
+    {
+      "startsAt": "2020-12-06T00:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 1663,
+      "pageViews": 12333
+    }
+  ],
+  "monthStats": [
+    {
+      "startsAt": "2020-05-01T00:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 54474,
+      "pageViews": 233988
+    },
+    {
+      "startsAt": "2020-05-01T00:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 21287,
+      "pageViews": 327363
+    },
+    {
+      "startsAt": "2020-05-01T00:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 65194,
+      "pageViews": 480536
+    },
+    {
+      "startsAt": "2020-05-01T00:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 11361,
+      "pageViews": 173345
+    },
+    {
+      "startsAt": "2020-05-01T00:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 180069,
+      "pageViews": 1727491
+    },
+    {
+      "startsAt": "2020-05-01T00:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 27753,
+      "pageViews": 512259
+    },
+    {
+      "startsAt": "2020-03-01T00:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 50086,
+      "pageViews": 205367
+    },
+    {
+      "startsAt": "2020-03-01T00:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 20428,
+      "pageViews": 309110
+    },
+    {
+      "startsAt": "2020-03-01T00:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 64210,
+      "pageViews": 450381
+    },
+    {
+      "startsAt": "2020-03-01T00:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 11073,
+      "pageViews": 243691
+    },
+    {
+      "startsAt": "2020-03-01T00:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 171577,
+      "pageViews": 1616888
+    },
+    {
+      "startsAt": "2020-03-01T00:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 25780,
+      "pageViews": 408339
+    },
+    {
+      "startsAt": "2020-02-01T00:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 65030,
+      "pageViews": 284086
+    },
+    {
+      "startsAt": "2020-02-01T00:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 25346,
+      "pageViews": 379602
+    },
+    {
+      "startsAt": "2020-02-01T00:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 77700,
+      "pageViews": 598234
+    },
+    {
+      "startsAt": "2020-02-01T00:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 13660,
+      "pageViews": 269822
+    },
+    {
+      "startsAt": "2020-02-01T00:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 214423,
+      "pageViews": 2126367
+    },
+    {
+      "startsAt": "2020-02-01T00:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 32687,
+      "pageViews": 594623
+    },
+    {
+      "startsAt": "2020-10-01T00:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 44634,
+      "pageViews": 167723
+    },
+    {
+      "startsAt": "2020-10-01T00:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 17154,
+      "pageViews": 252037
+    },
+    {
+      "startsAt": "2020-10-01T00:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 58430,
+      "pageViews": 399175
+    },
+    {
+      "startsAt": "2020-10-01T00:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 10564,
+      "pageViews": 143313
+    },
+    {
+      "startsAt": "2020-10-01T00:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 154803,
+      "pageViews": 1342910
+    },
+    {
+      "startsAt": "2020-10-01T00:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 24021,
+      "pageViews": 380662
+    },
+    {
+      "startsAt": "2020-08-01T00:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 43672,
+      "pageViews": 180909
+    },
+    {
+      "startsAt": "2020-08-01T00:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 16822,
+      "pageViews": 243858
+    },
+    {
+      "startsAt": "2020-08-01T00:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 54482,
+      "pageViews": 394172
+    },
+    {
+      "startsAt": "2020-08-01T00:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 10170,
+      "pageViews": 128264
+    },
+    {
+      "startsAt": "2020-08-01T00:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 146587,
+      "pageViews": 1301022
+    },
+    {
+      "startsAt": "2020-08-01T00:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 21441,
+      "pageViews": 353819
+    },
+    {
+      "startsAt": "2020-12-01T00:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 16523,
+      "pageViews": 53035
+    },
+    {
+      "startsAt": "2020-12-01T00:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 7209,
+      "pageViews": 81711
+    },
+    {
+      "startsAt": "2020-12-01T00:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 22674,
+      "pageViews": 141809
+    },
+    {
+      "startsAt": "2020-12-01T00:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 4501,
+      "pageViews": 43766
+    },
+    {
+      "startsAt": "2020-12-01T00:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 60614,
+      "pageViews": 446135
+    },
+    {
+      "startsAt": "2020-12-01T00:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 9707,
+      "pageViews": 125814
+    },
+    {
+      "startsAt": "2020-06-01T00:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 44108,
+      "pageViews": 191517
+    },
+    {
+      "startsAt": "2020-06-01T00:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 19506,
+      "pageViews": 285292
+    },
+    {
+      "startsAt": "2020-06-01T00:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 55718,
+      "pageViews": 422671
+    },
+    {
+      "startsAt": "2020-06-01T00:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 10209,
+      "pageViews": 144688
+    },
+    {
+      "startsAt": "2020-06-01T00:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 154032,
+      "pageViews": 1440537
+    },
+    {
+      "startsAt": "2020-06-01T00:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 24491,
+      "pageViews": 396369
+    },
+    {
+      "startsAt": "2020-04-01T00:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 45470,
+      "pageViews": 190071
+    },
+    {
+      "startsAt": "2020-04-01T00:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 18373,
+      "pageViews": 282767
+    },
+    {
+      "startsAt": "2020-04-01T00:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 59660,
+      "pageViews": 448943
+    },
+    {
+      "startsAt": "2020-04-01T00:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 9787,
+      "pageViews": 201440
+    },
+    {
+      "startsAt": "2020-04-01T00:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 155732,
+      "pageViews": 1511486
+    },
+    {
+      "startsAt": "2020-04-01T00:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 22442,
+      "pageViews": 388265
+    },
+    {
+      "startsAt": "2020-07-01T00:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 45014,
+      "pageViews": 194042
+    },
+    {
+      "startsAt": "2020-07-01T00:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 18292,
+      "pageViews": 261198
+    },
+    {
+      "startsAt": "2020-07-01T00:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 59943,
+      "pageViews": 442317
+    },
+    {
+      "startsAt": "2020-07-01T00:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 10438,
+      "pageViews": 136055
+    },
+    {
+      "startsAt": "2020-07-01T00:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 157392,
+      "pageViews": 1411635
+    },
+    {
+      "startsAt": "2020-07-01T00:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 23705,
+      "pageViews": 378023
+    },
+    {
+      "startsAt": "2020-11-01T00:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 43013,
+      "pageViews": 161205
+    },
+    {
+      "startsAt": "2020-11-01T00:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 16345,
+      "pageViews": 234889
+    },
+    {
+      "startsAt": "2020-11-01T00:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 60716,
+      "pageViews": 435780
+    },
+    {
+      "startsAt": "2020-11-01T00:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 10464,
+      "pageViews": 136085
+    },
+    {
+      "startsAt": "2020-11-01T00:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 153061,
+      "pageViews": 1347673
+    },
+    {
+      "startsAt": "2020-11-01T00:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 22523,
+      "pageViews": 379714
+    },
+    {
+      "startsAt": "2020-09-01T00:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 46247,
+      "pageViews": 178821
+    },
+    {
+      "startsAt": "2020-09-01T00:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 19375,
+      "pageViews": 259457
+    },
+    {
+      "startsAt": "2020-09-01T00:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 59103,
+      "pageViews": 420839
+    },
+    {
+      "startsAt": "2020-09-01T00:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 14417,
+      "pageViews": 148019
+    },
+    {
+      "startsAt": "2020-09-01T00:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 169825,
+      "pageViews": 1392250
+    },
+    {
+      "startsAt": "2020-09-01T00:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 30683,
+      "pageViews": 385114
+    },
+    {
+      "startsAt": "2020-01-01T00:00:00.000000",
+      "client": "MOBILE_WEB",
+      "uniqueUsers": 79652,
+      "pageViews": 366608
+    },
+    {
+      "startsAt": "2020-01-01T00:00:00.000000",
+      "client": "OLD_REDDIT",
+      "uniqueUsers": 32036,
+      "pageViews": 492174
+    },
+    {
+      "startsAt": "2020-01-01T00:00:00.000000",
+      "client": "DESKTOP",
+      "uniqueUsers": 95882,
+      "pageViews": 778218
+    },
+    {
+      "startsAt": "2020-01-01T00:00:00.000000",
+      "client": "ANDROID",
+      "uniqueUsers": 15927,
+      "pageViews": 275592
+    },
+    {
+      "startsAt": "2020-01-01T00:00:00.000000",
+      "client": "TOTAL",
+      "uniqueUsers": 263755,
+      "pageViews": 2701844
+    },
+    {
+      "startsAt": "2020-01-01T00:00:00.000000",
+      "client": "IOS",
+      "uniqueUsers": 40258,
+      "pageViews": 789252
+    }
+  ]
+}
